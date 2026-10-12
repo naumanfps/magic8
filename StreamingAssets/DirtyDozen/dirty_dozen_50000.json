@@ -1,0 +1,622 @@
+[
+  {
+    "id": "DD-000001",
+    "roundOrder": 1,
+    "categoryId": "category-1",
+    "categoryTitle": "Famous Couples in Prime Time Television",
+    "prompt": "Find the eight television couples in this set. The result list follows the premiere year of each couple's series.",
+    "answerOptions": [
+      {
+        "id": "DD-000001-A01",
+        "displayText": "Danny Zuko and Sandy Olsson",
+        "displayOrder": 1,
+        "sourceStatus": "Mock",
+        "explanation": "Distractor: not a correct match for this round's category criterion."
+      },
+      {
+        "id": "DD-000001-A02",
+        "displayText": "Jessica Day and Nick Miller",
+        "displayOrder": 2,
+        "sourceStatus": "Mock",
+        "explanation": "Distractor: not a correct match for this round's category criterion."
+      },
+      {
+        "id": "DD-000001-A03",
+        "displayText": "Ted Mosby and Tracy McConnell",
+        "displayOrder": 3,
+        "sourceStatus": "Mock",
+        "explanation": "Distractor: not a correct match for this round's category criterion."
+      },
+      {
+        "id": "DD-000001-A04",
+        "displayText": "Westley and Buttercup",
+        "displayOrder": 4,
+        "sourceStatus": "Mock",
+        "explanation": "Distractor: not a correct match for this round's category criterion."
+      },
+      {
+        "id": "DD-000001-A05",
+        "displayText": "David Addison and Maddie Hayes",
+        "displayOrder": 5,
+        "sourceStatus": "Mock",
+        "explanation": "Distractor: not a correct match for this round's category criterion."
+      },
+      {
+        "id": "DD-000001-A06",
+        "displayText": "David Rose and Patrick Brewer",
+        "displayOrder": 6,
+        "sourceStatus": "Mock",
+        "explanation": "Distractor: not a correct match for this round's category criterion."
+      },
+      {
+        "id": "DD-000001-A07",
+        "displayText": "Rick Blaine and Ilsa Lund",
+        "displayOrder": 7,
+        "sourceStatus": "Mock",
+        "explanation": "Distractor: not a correct match for this round's category criterion."
+      },
+      {
+        "id": "DD-000001-A08",
+        "displayText": "Monica Geller and Chandler Bing",
+        "displayOrder": 8,
+        "sourceStatus": "Mock",
+        "explanation": "Distractor: not a correct match for this round's category criterion."
+      },
+      {
+        "id": "DD-000001-A09",
+        "displayText": "Rory Gilmore and Jess Mariano",
+        "displayOrder": 9,
+        "sourceStatus": "Mock",
+        "explanation": "Distractor: not a correct match for this round's category criterion."
+      },
+      {
+        "id": "DD-000001-A10",
+        "displayText": "Bob Parr and Helen Parr",
+        "displayOrder": 10,
+        "sourceStatus": "Mock",
+        "explanation": "Distractor: not a correct match for this round's category criterion."
+      },
+      {
+        "id": "DD-000001-A11",
+        "displayText": "Dexter Morgan and Hannah McKay",
+        "displayOrder": 11,
+        "sourceStatus": "Mock",
+        "explanation": "Distractor: not a correct match for this round's category criterion."
+      },
+      {
+        "id": "DD-000001-A12",
+        "displayText": "Lorelai Gilmore and Luke Danes",
+        "displayOrder": 12,
+        "sourceStatus": "Mock",
+        "explanation": "Distractor: not a correct match for this round's category criterion."
+      }
+    ],
+    "resultOrder": [
+      {
+        "id": "DD-000001-A05",
+        "displayText": "David Addison and Maddie Hayes",
+        "displayOrder": 5,
+        "sourceStatus": "Mock",
+        "explanation": "Distractor: not a correct match for this round's category criterion."
+      },
+      {
+        "id": "DD-000001-A08",
+        "displayText": "Monica Geller and Chandler Bing",
+        "displayOrder": 8,
+        "sourceStatus": "Mock",
+        "explanation": "Distractor: not a correct match for this round's category criterion."
+      },
+      {
+        "id": "DD-000001-A12",
+        "displayText": "Lorelai Gilmore and Luke Danes",
+        "displayOrder": 12,
+        "sourceStatus": "Mock",
+        "explanation": "Distractor: not a correct match for this round's category criterion."
+      },
+      {
+        "id": "DD-000001-A09",
+        "displayText": "Rory Gilmore and Jess Mariano",
+        "displayOrder": 9,
+        "sourceStatus": "Mock",
+        "explanation": "Distractor: not a correct match for this round's category criterion."
+      },
+      {
+        "id": "DD-000001-A03",
+        "displayText": "Ted Mosby and Tracy McConnell",
+        "displayOrder": 3,
+        "sourceStatus": "Mock",
+        "explanation": "Distractor: not a correct match for this round's category criterion."
+      },
+      {
+        "id": "DD-000001-A11",
+        "displayText": "Dexter Morgan and Hannah McKay",
+        "displayOrder": 11,
+        "sourceStatus": "Mock",
+        "explanation": "Distractor: not a correct match for this round's category criterion."
+      },
+      {
+        "id": "DD-000001-A02",
+        "displayText": "Jessica Day and Nick Miller",
+        "displayOrder": 2,
+        "sourceStatus": "Mock",
+        "explanation": "Distractor: not a correct match for this round's category criterion."
+      },
+      {
+        "id": "DD-000001-A06",
+        "displayText": "David Rose and Patrick Brewer",
+        "displayOrder": 6,
+        "sourceStatus": "Mock",
+        "explanation": "Distractor: not a correct match for this round's category criterion."
+      }
+    ],
+    "submissions": [],
+    "questionPoint": null,
+    "configuredTimerSeconds": 5.0,
+    "answerDescription": "Eight of the twelve choices are correct. Select any correct answer; the ranked result list shows the eight correct entries in the category-specific reveal order."
+  },
+  {
+    "id": "DD-012501",
+    "roundOrder": 2,
+    "categoryId": "category-2",
+    "categoryTitle": "Member States of the Commonwealth of Nations",
+    "prompt": "Choose the eight countries that belong to the Commonwealth. The reveal sorts the selected members alphabetically.",
+    "answerOptions": [
+      {
+        "id": "DD-012501-A01",
+        "displayText": "Cameroon",
+        "displayOrder": 1,
+        "sourceStatus": "Mock",
+        "explanation": "Correct: current Commonwealth member; reveal order is alphabetical."
+      },
+      {
+        "id": "DD-012501-A02",
+        "displayText": "Georgia",
+        "displayOrder": 2,
+        "sourceStatus": "Mock",
+        "explanation": "Distractor: not a correct match for this round's category criterion."
+      },
+      {
+        "id": "DD-012501-A03",
+        "displayText": "Saint Lucia",
+        "displayOrder": 3,
+        "sourceStatus": "Mock",
+        "explanation": "Correct: current Commonwealth member; reveal order is alphabetical."
+      },
+      {
+        "id": "DD-012501-A04",
+        "displayText": "China",
+        "displayOrder": 4,
+        "sourceStatus": "Mock",
+        "explanation": "Distractor: not a correct match for this round's category criterion."
+      },
+      {
+        "id": "DD-012501-A05",
+        "displayText": "Rwanda",
+        "displayOrder": 5,
+        "sourceStatus": "Mock",
+        "explanation": "Correct: current Commonwealth member; reveal order is alphabetical."
+      },
+      {
+        "id": "DD-012501-A06",
+        "displayText": "Canada",
+        "displayOrder": 6,
+        "sourceStatus": "Mock",
+        "explanation": "Correct: current Commonwealth member; reveal order is alphabetical."
+      },
+      {
+        "id": "DD-012501-A07",
+        "displayText": "United Kingdom",
+        "displayOrder": 7,
+        "sourceStatus": "Mock",
+        "explanation": "Correct: current Commonwealth member; reveal order is alphabetical."
+      },
+      {
+        "id": "DD-012501-A08",
+        "displayText": "Lebanon",
+        "displayOrder": 8,
+        "sourceStatus": "Mock",
+        "explanation": "Distractor: not a correct match for this round's category criterion."
+      },
+      {
+        "id": "DD-012501-A09",
+        "displayText": "Philippines",
+        "displayOrder": 9,
+        "sourceStatus": "Mock",
+        "explanation": "Distractor: not a correct match for this round's category criterion."
+      },
+      {
+        "id": "DD-012501-A10",
+        "displayText": "Eswatini",
+        "displayOrder": 10,
+        "sourceStatus": "Mock",
+        "explanation": "Correct: current Commonwealth member; reveal order is alphabetical."
+      },
+      {
+        "id": "DD-012501-A11",
+        "displayText": "Grenada",
+        "displayOrder": 11,
+        "sourceStatus": "Mock",
+        "explanation": "Correct: current Commonwealth member; reveal order is alphabetical."
+      },
+      {
+        "id": "DD-012501-A12",
+        "displayText": "Mauritius",
+        "displayOrder": 12,
+        "sourceStatus": "Mock",
+        "explanation": "Correct: current Commonwealth member; reveal order is alphabetical."
+      }
+    ],
+    "resultOrder": [
+      {
+        "id": "DD-012501-A01",
+        "displayText": "Cameroon",
+        "displayOrder": 1,
+        "sourceStatus": "Mock",
+        "explanation": "Correct: current Commonwealth member; reveal order is alphabetical."
+      },
+      {
+        "id": "DD-012501-A06",
+        "displayText": "Canada",
+        "displayOrder": 6,
+        "sourceStatus": "Mock",
+        "explanation": "Correct: current Commonwealth member; reveal order is alphabetical."
+      },
+      {
+        "id": "DD-012501-A10",
+        "displayText": "Eswatini",
+        "displayOrder": 10,
+        "sourceStatus": "Mock",
+        "explanation": "Correct: current Commonwealth member; reveal order is alphabetical."
+      },
+      {
+        "id": "DD-012501-A11",
+        "displayText": "Grenada",
+        "displayOrder": 11,
+        "sourceStatus": "Mock",
+        "explanation": "Correct: current Commonwealth member; reveal order is alphabetical."
+      },
+      {
+        "id": "DD-012501-A12",
+        "displayText": "Mauritius",
+        "displayOrder": 12,
+        "sourceStatus": "Mock",
+        "explanation": "Correct: current Commonwealth member; reveal order is alphabetical."
+      },
+      {
+        "id": "DD-012501-A05",
+        "displayText": "Rwanda",
+        "displayOrder": 5,
+        "sourceStatus": "Mock",
+        "explanation": "Correct: current Commonwealth member; reveal order is alphabetical."
+      },
+      {
+        "id": "DD-012501-A03",
+        "displayText": "Saint Lucia",
+        "displayOrder": 3,
+        "sourceStatus": "Mock",
+        "explanation": "Correct: current Commonwealth member; reveal order is alphabetical."
+      },
+      {
+        "id": "DD-012501-A07",
+        "displayText": "United Kingdom",
+        "displayOrder": 7,
+        "sourceStatus": "Mock",
+        "explanation": "Correct: current Commonwealth member; reveal order is alphabetical."
+      }
+    ],
+    "submissions": [],
+    "questionPoint": null,
+    "configuredTimerSeconds": 5.0,
+    "answerDescription": "Eight of the twelve choices are correct. Select any correct answer; the ranked result list shows the eight correct entries in the category-specific reveal order."
+  },
+  {
+    "id": "DD-025001",
+    "roundOrder": 3,
+    "categoryId": "category-3",
+    "categoryTitle": "Most Popular Pizza Toppings in USA as of 2016 (According to Foddler.com)",
+    "prompt": "Select the eight established pizza toppings from the choices. The reveal follows the curated local popularity order.",
+    "answerOptions": [
+      {
+        "id": "DD-025001-A01",
+        "displayText": "Maple cereal",
+        "displayOrder": 1,
+        "sourceStatus": "Mock",
+        "explanation": "Distractor: not a correct match for this round's category criterion."
+      },
+      {
+        "id": "DD-025001-A02",
+        "displayText": "Prosciutto di Parma",
+        "displayOrder": 2,
+        "sourceStatus": "Mock",
+        "explanation": "Correct: conventional pizza topping in the local curated content bank; reveal order follows its curated popularity position."
+      },
+      {
+        "id": "DD-025001-A03",
+        "displayText": "Cornflakes",
+        "displayOrder": 3,
+        "sourceStatus": "Mock",
+        "explanation": "Distractor: not a correct match for this round's category criterion."
+      },
+      {
+        "id": "DD-025001-A04",
+        "displayText": "Speck",
+        "displayOrder": 4,
+        "sourceStatus": "Mock",
+        "explanation": "Correct: conventional pizza topping in the local curated content bank; reveal order follows its curated popularity position."
+      },
+      {
+        "id": "DD-025001-A05",
+        "displayText": "Strawberry jam",
+        "displayOrder": 5,
+        "sourceStatus": "Mock",
+        "explanation": "Distractor: not a correct match for this round's category criterion."
+      },
+      {
+        "id": "DD-025001-A06",
+        "displayText": "Pesto",
+        "displayOrder": 6,
+        "sourceStatus": "Mock",
+        "explanation": "Correct: conventional pizza topping in the local curated content bank; reveal order follows its curated popularity position."
+      },
+      {
+        "id": "DD-025001-A07",
+        "displayText": "Fontina",
+        "displayOrder": 7,
+        "sourceStatus": "Mock",
+        "explanation": "Correct: conventional pizza topping in the local curated content bank; reveal order follows its curated popularity position."
+      },
+      {
+        "id": "DD-025001-A08",
+        "displayText": "Truffle mushrooms",
+        "displayOrder": 8,
+        "sourceStatus": "Mock",
+        "explanation": "Correct: conventional pizza topping in the local curated content bank; reveal order follows its curated popularity position."
+      },
+      {
+        "id": "DD-025001-A09",
+        "displayText": "Pineapple",
+        "displayOrder": 9,
+        "sourceStatus": "Mock",
+        "explanation": "Correct: conventional pizza topping in the local curated content bank; reveal order follows its curated popularity position."
+      },
+      {
+        "id": "DD-025001-A10",
+        "displayText": "Blackened chicken",
+        "displayOrder": 10,
+        "sourceStatus": "Mock",
+        "explanation": "Correct: conventional pizza topping in the local curated content bank; reveal order follows its curated popularity position."
+      },
+      {
+        "id": "DD-025001-A11",
+        "displayText": "Ham",
+        "displayOrder": 11,
+        "sourceStatus": "Mock",
+        "explanation": "Correct: conventional pizza topping in the local curated content bank; reveal order follows its curated popularity position."
+      },
+      {
+        "id": "DD-025001-A12",
+        "displayText": "Peach preserves",
+        "displayOrder": 12,
+        "sourceStatus": "Mock",
+        "explanation": "Distractor: not a correct match for this round's category criterion."
+      }
+    ],
+    "resultOrder": [
+      {
+        "id": "DD-025001-A11",
+        "displayText": "Ham",
+        "displayOrder": 11,
+        "sourceStatus": "Mock",
+        "explanation": "Correct: conventional pizza topping in the local curated content bank; reveal order follows its curated popularity position."
+      },
+      {
+        "id": "DD-025001-A09",
+        "displayText": "Pineapple",
+        "displayOrder": 9,
+        "sourceStatus": "Mock",
+        "explanation": "Correct: conventional pizza topping in the local curated content bank; reveal order follows its curated popularity position."
+      },
+      {
+        "id": "DD-025001-A06",
+        "displayText": "Pesto",
+        "displayOrder": 6,
+        "sourceStatus": "Mock",
+        "explanation": "Correct: conventional pizza topping in the local curated content bank; reveal order follows its curated popularity position."
+      },
+      {
+        "id": "DD-025001-A10",
+        "displayText": "Blackened chicken",
+        "displayOrder": 10,
+        "sourceStatus": "Mock",
+        "explanation": "Correct: conventional pizza topping in the local curated content bank; reveal order follows its curated popularity position."
+      },
+      {
+        "id": "DD-025001-A04",
+        "displayText": "Speck",
+        "displayOrder": 4,
+        "sourceStatus": "Mock",
+        "explanation": "Correct: conventional pizza topping in the local curated content bank; reveal order follows its curated popularity position."
+      },
+      {
+        "id": "DD-025001-A02",
+        "displayText": "Prosciutto di Parma",
+        "displayOrder": 2,
+        "sourceStatus": "Mock",
+        "explanation": "Correct: conventional pizza topping in the local curated content bank; reveal order follows its curated popularity position."
+      },
+      {
+        "id": "DD-025001-A08",
+        "displayText": "Truffle mushrooms",
+        "displayOrder": 8,
+        "sourceStatus": "Mock",
+        "explanation": "Correct: conventional pizza topping in the local curated content bank; reveal order follows its curated popularity position."
+      },
+      {
+        "id": "DD-025001-A07",
+        "displayText": "Fontina",
+        "displayOrder": 7,
+        "sourceStatus": "Mock",
+        "explanation": "Correct: conventional pizza topping in the local curated content bank; reveal order follows its curated popularity position."
+      }
+    ],
+    "submissions": [],
+    "questionPoint": null,
+    "configuredTimerSeconds": 5.0,
+    "answerDescription": "Eight of the twelve choices are correct. Select any correct answer; the ranked result list shows the eight correct entries in the category-specific reveal order."
+  },
+  {
+    "id": "DD-037501",
+    "roundOrder": 4,
+    "categoryId": "category-4",
+    "categoryTitle": "Non-numeric/Non-alphabetic/Non-punctuation/Non-function Keys on a Standard Keyboard",
+    "prompt": "Which eight choices are non-alphanumeric, non-punctuation, non-function keyboard controls? Results follow standard scan order.",
+    "answerOptions": [
+      {
+        "id": "DD-037501-A01",
+        "displayText": "Apostrophe",
+        "displayOrder": 1,
+        "sourceStatus": "Mock",
+        "explanation": "Distractor: not a correct match for this round's category criterion."
+      },
+      {
+        "id": "DD-037501-A02",
+        "displayText": "Right Arrow",
+        "displayOrder": 2,
+        "sourceStatus": "Mock",
+        "explanation": "Correct: non-alphanumeric/non-punctuation/non-function keyboard control in the curated key bank; reveal order follows standard layout order."
+      },
+      {
+        "id": "DD-037501-A03",
+        "displayText": "Caps Lock",
+        "displayOrder": 3,
+        "sourceStatus": "Mock",
+        "explanation": "Correct: non-alphanumeric/non-punctuation/non-function keyboard control in the curated key bank; reveal order follows standard layout order."
+      },
+      {
+        "id": "DD-037501-A04",
+        "displayText": "Windows Key",
+        "displayOrder": 4,
+        "sourceStatus": "Mock",
+        "explanation": "Correct: non-alphanumeric/non-punctuation/non-function keyboard control in the curated key bank; reveal order follows standard layout order."
+      },
+      {
+        "id": "DD-037501-A05",
+        "displayText": "Escape",
+        "displayOrder": 5,
+        "sourceStatus": "Mock",
+        "explanation": "Correct: non-alphanumeric/non-punctuation/non-function keyboard control in the curated key bank; reveal order follows standard layout order."
+      },
+      {
+        "id": "DD-037501-A06",
+        "displayText": "Delete",
+        "displayOrder": 6,
+        "sourceStatus": "Mock",
+        "explanation": "Correct: non-alphanumeric/non-punctuation/non-function keyboard control in the curated key bank; reveal order follows standard layout order."
+      },
+      {
+        "id": "DD-037501-A07",
+        "displayText": "Page Down",
+        "displayOrder": 7,
+        "sourceStatus": "Mock",
+        "explanation": "Correct: non-alphanumeric/non-punctuation/non-function keyboard control in the curated key bank; reveal order follows standard layout order."
+      },
+      {
+        "id": "DD-037501-A08",
+        "displayText": "F2",
+        "displayOrder": 8,
+        "sourceStatus": "Mock",
+        "explanation": "Distractor: not a correct match for this round's category criterion."
+      },
+      {
+        "id": "DD-037501-A09",
+        "displayText": "J",
+        "displayOrder": 9,
+        "sourceStatus": "Mock",
+        "explanation": "Distractor: not a correct match for this round's category criterion."
+      },
+      {
+        "id": "DD-037501-A10",
+        "displayText": "Context Menu",
+        "displayOrder": 10,
+        "sourceStatus": "Mock",
+        "explanation": "Correct: non-alphanumeric/non-punctuation/non-function keyboard control in the curated key bank; reveal order follows standard layout order."
+      },
+      {
+        "id": "DD-037501-A11",
+        "displayText": "F7",
+        "displayOrder": 11,
+        "sourceStatus": "Mock",
+        "explanation": "Distractor: not a correct match for this round's category criterion."
+      },
+      {
+        "id": "DD-037501-A12",
+        "displayText": "Again",
+        "displayOrder": 12,
+        "sourceStatus": "Mock",
+        "explanation": "Correct: non-alphanumeric/non-punctuation/non-function keyboard control in the curated key bank; reveal order follows standard layout order."
+      }
+    ],
+    "resultOrder": [
+      {
+        "id": "DD-037501-A03",
+        "displayText": "Caps Lock",
+        "displayOrder": 3,
+        "sourceStatus": "Mock",
+        "explanation": "Correct: non-alphanumeric/non-punctuation/non-function keyboard control in the curated key bank; reveal order follows standard layout order."
+      },
+      {
+        "id": "DD-037501-A06",
+        "displayText": "Delete",
+        "displayOrder": 6,
+        "sourceStatus": "Mock",
+        "explanation": "Correct: non-alphanumeric/non-punctuation/non-function keyboard control in the curated key bank; reveal order follows standard layout order."
+      },
+      {
+        "id": "DD-037501-A07",
+        "displayText": "Page Down",
+        "displayOrder": 7,
+        "sourceStatus": "Mock",
+        "explanation": "Correct: non-alphanumeric/non-punctuation/non-function keyboard control in the curated key bank; reveal order follows standard layout order."
+      },
+      {
+        "id": "DD-037501-A02",
+        "displayText": "Right Arrow",
+        "displayOrder": 2,
+        "sourceStatus": "Mock",
+        "explanation": "Correct: non-alphanumeric/non-punctuation/non-function keyboard control in the curated key bank; reveal order follows standard layout order."
+      },
+      {
+        "id": "DD-037501-A05",
+        "displayText": "Escape",
+        "displayOrder": 5,
+        "sourceStatus": "Mock",
+        "explanation": "Correct: non-alphanumeric/non-punctuation/non-function keyboard control in the curated key bank; reveal order follows standard layout order."
+      },
+      {
+        "id": "DD-037501-A04",
+        "displayText": "Windows Key",
+        "displayOrder": 4,
+        "sourceStatus": "Mock",
+        "explanation": "Correct: non-alphanumeric/non-punctuation/non-function keyboard control in the curated key bank; reveal order follows standard layout order."
+      },
+      {
+        "id": "DD-037501-A10",
+        "displayText": "Context Menu",
+        "displayOrder": 10,
+        "sourceStatus": "Mock",
+        "explanation": "Correct: non-alphanumeric/non-punctuation/non-function keyboard control in the curated key bank; reveal order follows standard layout order."
+      },
+      {
+        "id": "DD-037501-A12",
+        "displayText": "Again",
+        "displayOrder": 12,
+        "sourceStatus": "Mock",
+        "explanation": "Correct: non-alphanumeric/non-punctuation/non-function keyboard control in the curated key bank; reveal order follows standard layout order."
+      }
+    ],
+    "submissions": [],
+    "questionPoint": null,
+    "configuredTimerSeconds": 5.0,
+    "answerDescription": "Eight of the twelve choices are correct. Select any correct answer; the ranked result list shows the eight correct entries in the category-specific reveal order."
+  }
+]
