@@ -1,0 +1,234 @@
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Unity WebGL Player | Word Stairs</title>
+    <link rel="shortcut icon" href="TemplateData/favicon.ico">
+    <link rel="stylesheet" href="TemplateData/style.css">
+  </head>
+
+  <body>
+    <div id="unity-container" class="unity-desktop">
+      <canvas id="unity-canvas" width="540" height="960" tabindex="-1"></canvas>
+
+      <div id="unity-loading-bar">
+        <div id="unity-logo"></div>
+        <div id="unity-progress-bar-empty">
+          <div id="unity-progress-bar-full"></div>
+        </div>
+      </div>
+
+      <div id="unity-warning"></div>
+
+      <div id="unity-footer">
+        <div id="unity-webgl-logo"></div>
+        <div id="unity-fullscreen-button"></div>
+        <div id="unity-build-title">Word Stairs</div>
+      </div>
+    </div>
+
+    <script>
+      var container = document.querySelector("#unity-container");
+      var canvas = document.querySelector("#unity-canvas");
+      var loadingBar = document.querySelector("#unity-loading-bar");
+      var progressBarFull = document.querySelector("#unity-progress-bar-full");
+      var fullscreenButton = document.querySelector("#unity-fullscreen-button");
+      var warningBanner = document.querySelector("#unity-warning");
+
+      // Shows a temporary message banner/ribbon for a few seconds,
+      // or a permanent error message on top of the canvas if type=='error'.
+      function unityShowBanner(msg, type) {
+        function updateBannerVisibility() {
+          warningBanner.style.display =
+            warningBanner.children.length ? "block" : "none";
+        }
+
+        var div = document.createElement("div");
+        div.innerHTML = msg;
+
+        warningBanner.appendChild(div);
+
+        if (type == "error") {
+          div.style = "background: red; padding: 10px;";
+        } else {
+          if (type == "warning") {
+            div.style = "background: yellow; padding: 10px;";
+          }
+
+          setTimeout(function () {
+            warningBanner.removeChild(div);
+            updateBannerVisibility();
+          }, 5000);
+        }
+
+        updateBannerVisibility();
+      }
+
+      var buildUrl = "Build";
+      var loaderUrl = buildUrl + "/wordladderbuild.loader.js";
+
+      var config = {
+        dataUrl: buildUrl + "/wordladderbuild.data",
+        frameworkUrl: buildUrl + "/wordladderbuild.framework.js",
+        codeUrl: buildUrl + "/wordladderbuild.wasm",
+        streamingAssetsUrl: "StreamingAssets",
+        companyName: "Inari Games LLC",
+        productName: "Word Stairs",
+        productVersion: "1.0.3",
+        showBanner: unityShowBanner,
+      };
+
+      // By default, Unity keeps the WebGL canvas render target size
+      // matched with the DOM size of the canvas element.
+      //
+      // config.matchWebGLToCanvasSize = false;
+
+      // If you would like all file writes inside Unity
+      // Application.persistentDataPath to automatically persist:
+      //
+      // config.autoSyncPersistentDataPath = true;
+
+      /*
+       * ============================================================
+       * MOBILE DISPLAY FIX
+       * ============================================================
+       *
+       * The Unity game is designed at 540 x 960.
+       *
+       * Aspect ratio:
+       * 540 / 960 = 0.5625 = 9:16
+       *
+       * Do NOT stretch the canvas to both 100% width and 100% height
+       * because modern phones have different aspect ratios such as
+       * 19.5:9 and 20:9.
+       *
+       * Instead, calculate the largest 9:16 canvas that fits inside
+       * the current viewport. This keeps the complete game visible
+       * and prevents the left/right sides from being cropped.
+       */
+
+      if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
+
+        // Mobile viewport
+        var meta = document.createElement("meta");
+        meta.name = "viewport";
+        meta.content =
+          "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover";
+
+        document.getElementsByTagName("head")[0].appendChild(meta);
+
+        container.className = "unity-mobile";
+        canvas.className = "unity-mobile";
+
+        function resizeMobileCanvas() {
+          var viewportWidth = window.innerWidth;
+          var viewportHeight = window.innerHeight;
+
+          // Unity game design resolution: 540 x 960
+          var gameWidth = 540;
+          var gameHeight = 960;
+
+          var gameAspect = gameWidth / gameHeight;
+          var viewportAspect = viewportWidth / viewportHeight;
+
+          var canvasWidth;
+          var canvasHeight;
+
+          if (viewportAspect > gameAspect) {
+            /*
+             * Device is wider than 9:16.
+             *
+             * Fit the game by height.
+             * This leaves unused space on the left/right rather
+             * than cropping the game.
+             */
+            canvasHeight = viewportHeight;
+            canvasWidth = canvasHeight * gameAspect;
+          } else {
+            /*
+             * Device is narrower/taller than 9:16.
+             *
+             * Fit the game by width.
+             * This leaves unused space above/below rather
+             * than cropping the game.
+             */
+            canvasWidth = viewportWidth;
+            canvasHeight = canvasWidth / gameAspect;
+          }
+
+          // Apply calculated dimensions.
+          canvas.style.width = Math.floor(canvasWidth) + "px";
+          canvas.style.height = Math.floor(canvasHeight) + "px";
+
+          // Center the complete game inside the viewport.
+          canvas.style.position = "absolute";
+          canvas.style.left = "50%";
+          canvas.style.top = "50%";
+          canvas.style.transform = "translate(-50%, -50%)";
+
+          // Prevent browser stretching/cropping.
+          canvas.style.objectFit = "contain";
+          canvas.style.objectPosition = "center center";
+        }
+
+        // Initial sizing
+        resizeMobileCanvas();
+
+        // Handle browser resize.
+        window.addEventListener("resize", function () {
+          resizeMobileCanvas();
+        });
+
+        // Handle phone orientation changes.
+        window.addEventListener("orientationchange", function () {
+          setTimeout(function () {
+            resizeMobileCanvas();
+          }, 100);
+        });
+
+        // Optional mobile performance setting:
+        // config.devicePixelRatio = 1;
+
+      } else {
+
+        /*
+         * ============================================================
+         * DESKTOP
+         * ============================================================
+         *
+         * Keep the original desktop size.
+         */
+
+        canvas.style.width = "540px";
+        canvas.style.height = "960px";
+      }
+
+      loadingBar.style.display = "block";
+
+      var script = document.createElement("script");
+      script.src = loaderUrl;
+
+      script.onload = () => {
+        createUnityInstance(
+          canvas,
+          config,
+          (progress) => {
+            progressBarFull.style.width = 100 * progress + "%";
+          }
+        )
+          .then((unityInstance) => {
+            loadingBar.style.display = "none";
+
+            fullscreenButton.onclick = () => {
+              unityInstance.SetFullscreen(1);
+            };
+          })
+          .catch((message) => {
+            alert(message);
+          });
+      };
+
+      document.body.appendChild(script);
+    </script>
+  </body>
+</html>
