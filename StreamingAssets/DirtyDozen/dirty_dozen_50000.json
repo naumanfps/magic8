@@ -680,7 +680,7 @@
         "displayText": "The Moon",
         "displayOrder": 8,
         "sourceStatus": "Observed",
-        "explanation": "The Moon is Earth’s natural satellite, not a planet."
+        "explanation": "The Moon is Earthâ€™s natural satellite, not a planet."
       },
       {
         "id": "DD-037502-A09",
@@ -701,7 +701,7 @@
         "displayText": "The Sun",
         "displayOrder": 11,
         "sourceStatus": "Observed",
-        "explanation": "The Sun is the Solar System’s star, not a planet."
+        "explanation": "The Sun is the Solar Systemâ€™s star, not a planet."
       },
       {
         "id": "DD-037502-A12",
@@ -779,14 +779,14 @@
     "roundOrder": 6,
     "categoryId": "category-6",
     "categoryTitle": "Founding Members of NATO in 1949",
-    "prompt": "Select the eight countries shown that were among NATO’s 12 founding members on 4 April 1949; reveal order is alphabetical.",
+    "prompt": "Select the eight countries shown that were among NATOâ€™s 12 founding members on 4 April 1949; reveal order is alphabetical.",
     "answerOptions": [
       {
         "id": "DD-037503-A01",
         "displayText": "Belgium",
         "displayOrder": 1,
         "sourceStatus": "Observed",
-        "explanation": "Belgium was one of NATO’s 12 founding members and signed the North Atlantic Treaty in 1949."
+        "explanation": "Belgium was one of NATOâ€™s 12 founding members and signed the North Atlantic Treaty in 1949."
       },
       {
         "id": "DD-037503-A02",
@@ -800,14 +800,14 @@
         "displayText": "Canada",
         "displayOrder": 3,
         "sourceStatus": "Observed",
-        "explanation": "Canada was one of NATO’s 12 founding members and signed the North Atlantic Treaty in 1949."
+        "explanation": "Canada was one of NATOâ€™s 12 founding members and signed the North Atlantic Treaty in 1949."
       },
       {
         "id": "DD-037503-A04",
         "displayText": "Denmark",
         "displayOrder": 4,
         "sourceStatus": "Observed",
-        "explanation": "Denmark was one of NATO’s 12 founding members and signed the North Atlantic Treaty in 1949."
+        "explanation": "Denmark was one of NATOâ€™s 12 founding members and signed the North Atlantic Treaty in 1949."
       },
       {
         "id": "DD-037503-A05",
@@ -821,14 +821,14 @@
         "displayText": "France",
         "displayOrder": 6,
         "sourceStatus": "Observed",
-        "explanation": "France was one of NATO’s 12 founding members and signed the North Atlantic Treaty in 1949."
+        "explanation": "France was one of NATOâ€™s 12 founding members and signed the North Atlantic Treaty in 1949."
       },
       {
         "id": "DD-037503-A07",
         "displayText": "Iceland",
         "displayOrder": 7,
         "sourceStatus": "Observed",
-        "explanation": "Iceland was one of NATO’s 12 founding members and signed the North Atlantic Treaty in 1949."
+        "explanation": "Iceland was one of NATOâ€™s 12 founding members and signed the North Atlantic Treaty in 1949."
       },
       {
         "id": "DD-037503-A08",
@@ -842,14 +842,14 @@
         "displayText": "Italy",
         "displayOrder": 9,
         "sourceStatus": "Observed",
-        "explanation": "Italy was one of NATO’s 12 founding members and signed the North Atlantic Treaty in 1949."
+        "explanation": "Italy was one of NATOâ€™s 12 founding members and signed the North Atlantic Treaty in 1949."
       },
       {
         "id": "DD-037503-A10",
         "displayText": "Luxembourg",
         "displayOrder": 10,
         "sourceStatus": "Observed",
-        "explanation": "Luxembourg was one of NATO’s 12 founding members and signed the North Atlantic Treaty in 1949."
+        "explanation": "Luxembourg was one of NATOâ€™s 12 founding members and signed the North Atlantic Treaty in 1949."
       },
       {
         "id": "DD-037503-A11",
@@ -863,7 +863,7 @@
         "displayText": "Netherlands",
         "displayOrder": 12,
         "sourceStatus": "Observed",
-        "explanation": "Netherlands was one of NATO’s 12 founding members and signed the North Atlantic Treaty in 1949."
+        "explanation": "Netherlands was one of NATOâ€™s 12 founding members and signed the North Atlantic Treaty in 1949."
       }
     ],
     "resultOrder": [
@@ -872,56 +872,56 @@
         "displayText": "Belgium",
         "displayOrder": 1,
         "sourceStatus": "Observed",
-        "explanation": "Belgium was one of NATO’s 12 founding members and signed the North Atlantic Treaty in 1949."
+        "explanation": "Belgium was one of NATOâ€™s 12 founding members and signed the North Atlantic Treaty in 1949."
       },
       {
         "id": "DD-037503-A03",
         "displayText": "Canada",
         "displayOrder": 3,
         "sourceStatus": "Observed",
-        "explanation": "Canada was one of NATO’s 12 founding members and signed the North Atlantic Treaty in 1949."
+        "explanation": "Canada was one of NATOâ€™s 12 founding members and signed the North Atlantic Treaty in 1949."
       },
       {
         "id": "DD-037503-A04",
         "displayText": "Denmark",
         "displayOrder": 4,
         "sourceStatus": "Observed",
-        "explanation": "Denmark was one of NATO’s 12 founding members and signed the North Atlantic Treaty in 1949."
+        "explanation": "Denmark was one of NATOâ€™s 12 founding members and signed the North Atlantic Treaty in 1949."
       },
       {
         "id": "DD-037503-A06",
         "displayText": "France",
         "displayOrder": 6,
         "sourceStatus": "Observed",
-        "explanation": "France was one of NATO’s 12 founding members and signed the North Atlantic Treaty in 1949."
+        "explanation": "France was one of NATOâ€™s 12 founding members and signed the North Atlantic Treaty in 1949."
       },
       {
         "id": "DD-037503-A07",
         "displayText": "Iceland",
         "displayOrder": 7,
         "sourceStatus": "Observed",
-        "explanation": "Iceland was one of NATO’s 12 founding members and signed the North Atlantic Treaty in 1949."
+        "explanation": "Iceland was one of NATOâ€™s 12 founding members and signed the North Atlantic Treaty in 1949."
       },
       {
         "id": "DD-037503-A09",
         "displayText": "Italy",
         "displayOrder": 9,
         "sourceStatus": "Observed",
-        "explanation": "Italy was one of NATO’s 12 founding members and signed the North Atlantic Treaty in 1949."
+        "explanation": "Italy was one of NATOâ€™s 12 founding members and signed the North Atlantic Treaty in 1949."
       },
       {
         "id": "DD-037503-A10",
         "displayText": "Luxembourg",
         "displayOrder": 10,
         "sourceStatus": "Observed",
-        "explanation": "Luxembourg was one of NATO’s 12 founding members and signed the North Atlantic Treaty in 1949."
+        "explanation": "Luxembourg was one of NATOâ€™s 12 founding members and signed the North Atlantic Treaty in 1949."
       },
       {
         "id": "DD-037503-A12",
         "displayText": "Netherlands",
         "displayOrder": 12,
         "sourceStatus": "Observed",
-        "explanation": "Netherlands was one of NATO’s 12 founding members and signed the North Atlantic Treaty in 1949."
+        "explanation": "Netherlands was one of NATOâ€™s 12 founding members and signed the North Atlantic Treaty in 1949."
       }
     ],
     "submissions": [],
@@ -1399,14 +1399,14 @@
     "roundOrder": 10,
     "categoryId": "category-10",
     "categoryTitle": "UNESCO World Heritage Properties",
-    "prompt": "Select the eight named places inscribed on UNESCO’s World Heritage List; reveal order is alphabetical by property name.",
+    "prompt": "Select the eight named places inscribed on UNESCOâ€™s World Heritage List; reveal order is alphabetical by property name.",
     "answerOptions": [
       {
         "id": "DD-037507-A01",
         "displayText": "Acropolis, Athens",
         "displayOrder": 1,
         "sourceStatus": "Observed",
-        "explanation": "Acropolis, Athens is inscribed on UNESCO’s World Heritage List."
+        "explanation": "Acropolis, Athens is inscribed on UNESCOâ€™s World Heritage List."
       },
       {
         "id": "DD-037507-A02",
@@ -1420,35 +1420,35 @@
         "displayText": "Angkor",
         "displayOrder": 3,
         "sourceStatus": "Observed",
-        "explanation": "Angkor is inscribed on UNESCO’s World Heritage List."
+        "explanation": "Angkor is inscribed on UNESCOâ€™s World Heritage List."
       },
       {
         "id": "DD-037507-A04",
         "displayText": "Great Wall",
         "displayOrder": 4,
         "sourceStatus": "Observed",
-        "explanation": "Great Wall is inscribed on UNESCO’s World Heritage List."
+        "explanation": "Great Wall is inscribed on UNESCOâ€™s World Heritage List."
       },
       {
         "id": "DD-037507-A05",
         "displayText": "Burj Khalifa",
         "displayOrder": 5,
         "sourceStatus": "Observed",
-        "explanation": "The Burj Khalifa is not inscribed on UNESCO’s World Heritage List."
+        "explanation": "The Burj Khalifa is not inscribed on UNESCOâ€™s World Heritage List."
       },
       {
         "id": "DD-037507-A06",
         "displayText": "Historic Sanctuary of Machu Picchu",
         "displayOrder": 6,
         "sourceStatus": "Observed",
-        "explanation": "Historic Sanctuary of Machu Picchu is inscribed on UNESCO’s World Heritage List."
+        "explanation": "Historic Sanctuary of Machu Picchu is inscribed on UNESCOâ€™s World Heritage List."
       },
       {
         "id": "DD-037507-A07",
-        "displayText": "Memphis and its Necropolis – the Pyramid Fields from Giza to Dahshur",
+        "displayText": "Memphis and its Necropolis â€“ the Pyramid Fields from Giza to Dahshur",
         "displayOrder": 7,
         "sourceStatus": "Observed",
-        "explanation": "Memphis and its Necropolis – the Pyramid Fields from Giza to Dahshur is inscribed on UNESCO’s World Heritage List."
+        "explanation": "Memphis and its Necropolis â€“ the Pyramid Fields from Giza to Dahshur is inscribed on UNESCOâ€™s World Heritage List."
       },
       {
         "id": "DD-037507-A08",
@@ -1462,14 +1462,14 @@
         "displayText": "Petra",
         "displayOrder": 9,
         "sourceStatus": "Observed",
-        "explanation": "Petra is inscribed on UNESCO’s World Heritage List."
+        "explanation": "Petra is inscribed on UNESCOâ€™s World Heritage List."
       },
       {
         "id": "DD-037507-A10",
         "displayText": "Persepolis",
         "displayOrder": 10,
         "sourceStatus": "Observed",
-        "explanation": "Persepolis is inscribed on UNESCO’s World Heritage List."
+        "explanation": "Persepolis is inscribed on UNESCOâ€™s World Heritage List."
       },
       {
         "id": "DD-037507-A11",
@@ -1483,7 +1483,7 @@
         "displayText": "Taj Mahal",
         "displayOrder": 12,
         "sourceStatus": "Observed",
-        "explanation": "Taj Mahal is inscribed on UNESCO’s World Heritage List."
+        "explanation": "Taj Mahal is inscribed on UNESCOâ€™s World Heritage List."
       }
     ],
     "resultOrder": [
@@ -1492,56 +1492,56 @@
         "displayText": "Acropolis, Athens",
         "displayOrder": 1,
         "sourceStatus": "Observed",
-        "explanation": "Acropolis, Athens is inscribed on UNESCO’s World Heritage List."
+        "explanation": "Acropolis, Athens is inscribed on UNESCOâ€™s World Heritage List."
       },
       {
         "id": "DD-037507-A03",
         "displayText": "Angkor",
         "displayOrder": 3,
         "sourceStatus": "Observed",
-        "explanation": "Angkor is inscribed on UNESCO’s World Heritage List."
+        "explanation": "Angkor is inscribed on UNESCOâ€™s World Heritage List."
       },
       {
         "id": "DD-037507-A04",
         "displayText": "Great Wall",
         "displayOrder": 4,
         "sourceStatus": "Observed",
-        "explanation": "Great Wall is inscribed on UNESCO’s World Heritage List."
+        "explanation": "Great Wall is inscribed on UNESCOâ€™s World Heritage List."
       },
       {
         "id": "DD-037507-A06",
         "displayText": "Historic Sanctuary of Machu Picchu",
         "displayOrder": 6,
         "sourceStatus": "Observed",
-        "explanation": "Historic Sanctuary of Machu Picchu is inscribed on UNESCO’s World Heritage List."
+        "explanation": "Historic Sanctuary of Machu Picchu is inscribed on UNESCOâ€™s World Heritage List."
       },
       {
         "id": "DD-037507-A07",
-        "displayText": "Memphis and its Necropolis – the Pyramid Fields from Giza to Dahshur",
+        "displayText": "Memphis and its Necropolis â€“ the Pyramid Fields from Giza to Dahshur",
         "displayOrder": 7,
         "sourceStatus": "Observed",
-        "explanation": "Memphis and its Necropolis – the Pyramid Fields from Giza to Dahshur is inscribed on UNESCO’s World Heritage List."
+        "explanation": "Memphis and its Necropolis â€“ the Pyramid Fields from Giza to Dahshur is inscribed on UNESCOâ€™s World Heritage List."
       },
       {
         "id": "DD-037507-A10",
         "displayText": "Persepolis",
         "displayOrder": 10,
         "sourceStatus": "Observed",
-        "explanation": "Persepolis is inscribed on UNESCO’s World Heritage List."
+        "explanation": "Persepolis is inscribed on UNESCOâ€™s World Heritage List."
       },
       {
         "id": "DD-037507-A09",
         "displayText": "Petra",
         "displayOrder": 9,
         "sourceStatus": "Observed",
-        "explanation": "Petra is inscribed on UNESCO’s World Heritage List."
+        "explanation": "Petra is inscribed on UNESCOâ€™s World Heritage List."
       },
       {
         "id": "DD-037507-A12",
         "displayText": "Taj Mahal",
         "displayOrder": 12,
         "sourceStatus": "Observed",
-        "explanation": "Taj Mahal is inscribed on UNESCO’s World Heritage List."
+        "explanation": "Taj Mahal is inscribed on UNESCOâ€™s World Heritage List."
       }
     ],
     "submissions": [],
@@ -1568,7 +1568,7 @@
         "displayText": "Helium (He)",
         "displayOrder": 2,
         "sourceStatus": "Observed",
-        "explanation": "Helium’s official symbol He contains two letters."
+        "explanation": "Heliumâ€™s official symbol He contains two letters."
       },
       {
         "id": "DD-037508-A03",
@@ -1589,7 +1589,7 @@
         "displayText": "Lithium (Li)",
         "displayOrder": 5,
         "sourceStatus": "Observed",
-        "explanation": "Lithium’s official symbol Li contains two letters."
+        "explanation": "Lithiumâ€™s official symbol Li contains two letters."
       },
       {
         "id": "DD-037508-A06",
@@ -1610,7 +1610,7 @@
         "displayText": "Neon (Ne)",
         "displayOrder": 8,
         "sourceStatus": "Observed",
-        "explanation": "Neon’s official symbol Ne contains two letters."
+        "explanation": "Neonâ€™s official symbol Ne contains two letters."
       },
       {
         "id": "DD-037508-A09",
@@ -1631,7 +1631,7 @@
         "displayText": "Magnesium (Mg)",
         "displayOrder": 11,
         "sourceStatus": "Observed",
-        "explanation": "Magnesium’s official symbol Mg contains two letters."
+        "explanation": "Magnesiumâ€™s official symbol Mg contains two letters."
       },
       {
         "id": "DD-037508-A12",
@@ -1709,7 +1709,7 @@
     "roundOrder": 12,
     "categoryId": "category-12",
     "categoryTitle": "CPLP Member States Participating in Activities (2026)",
-    "prompt": "Select the eight CPLP member states whose participation in the organization’s activities was not suspended as of 2026. Reveal order is alphabetical.",
+    "prompt": "Select the eight CPLP member states whose participation in the organizationâ€™s activities was not suspended as of 2026. Reveal order is alphabetical.",
     "answerOptions": [
       {
         "id": "DD-037509-A01",
@@ -1751,7 +1751,7 @@
         "displayText": "Equatorial Guinea",
         "displayOrder": 6,
         "sourceStatus": "Observed",
-        "explanation": "Equatorial Guinea became the CPLP’s ninth full member in 2014 and was not among the states whose participation was suspended in December 2025."
+        "explanation": "Equatorial Guinea became the CPLPâ€™s ninth full member in 2014 and was not among the states whose participation was suspended in December 2025."
       },
       {
         "id": "DD-037509-A07",
@@ -1776,10 +1776,10 @@
       },
       {
         "id": "DD-037509-A10",
-        "displayText": "São Tomé and Príncipe",
+        "displayText": "SÃ£o TomÃ© and PrÃ­ncipe",
         "displayOrder": 10,
         "sourceStatus": "Observed",
-        "explanation": "São Tomé and Príncipe is a full member state of the Community of Portuguese Language Countries (CPLP)."
+        "explanation": "SÃ£o TomÃ© and PrÃ­ncipe is a full member state of the Community of Portuguese Language Countries (CPLP)."
       },
       {
         "id": "DD-037509-A11",
@@ -1823,7 +1823,7 @@
         "displayText": "Equatorial Guinea",
         "displayOrder": 6,
         "sourceStatus": "Observed",
-        "explanation": "Equatorial Guinea became the CPLP’s ninth full member in 2014 and was not among the states whose participation was suspended in December 2025."
+        "explanation": "Equatorial Guinea became the CPLPâ€™s ninth full member in 2014 and was not among the states whose participation was suspended in December 2025."
       },
       {
         "id": "DD-037509-A07",
@@ -1841,10 +1841,10 @@
       },
       {
         "id": "DD-037509-A10",
-        "displayText": "São Tomé and Príncipe",
+        "displayText": "SÃ£o TomÃ© and PrÃ­ncipe",
         "displayOrder": 10,
         "sourceStatus": "Observed",
-        "explanation": "São Tomé and Príncipe is a full member state of the Community of Portuguese Language Countries (CPLP)."
+        "explanation": "SÃ£o TomÃ© and PrÃ­ncipe is a full member state of the Community of Portuguese Language Countries (CPLP)."
       },
       {
         "id": "DD-037509-A12",
@@ -1899,7 +1899,7 @@
         "displayText": "Chile",
         "displayOrder": 5,
         "sourceStatus": "Observed",
-        "explanation": "Chile is in South America but is not one of ACTO’s eight member countries."
+        "explanation": "Chile is in South America but is not one of ACTOâ€™s eight member countries."
       },
       {
         "id": "DD-037510-A06",
@@ -1920,7 +1920,7 @@
         "displayText": "Paraguay",
         "displayOrder": 8,
         "sourceStatus": "Observed",
-        "explanation": "Paraguay is not included in ACTO’s official list of eight members."
+        "explanation": "Paraguay is not included in ACTOâ€™s official list of eight members."
       },
       {
         "id": "DD-037510-A09",
@@ -1941,7 +1941,7 @@
         "displayText": "Uruguay",
         "displayOrder": 11,
         "sourceStatus": "Observed",
-        "explanation": "Uruguay is not included in ACTO’s official list of eight members."
+        "explanation": "Uruguay is not included in ACTOâ€™s official list of eight members."
       },
       {
         "id": "DD-037510-A12",
@@ -2973,9 +2973,9 @@
       },
       {
         "sourceStatus": "Observed",
-        "explanation": "Côte d'Ivoire is listed by the UN Statistics Division in the M49 Western Africa geographic subregion.",
+        "explanation": "CÃ´te d'Ivoire is listed by the UN Statistics Division in the M49 Western Africa geographic subregion.",
         "displayOrder": 6,
-        "displayText": "Côte d'Ivoire",
+        "displayText": "CÃ´te d'Ivoire",
         "id": "DD-037517-A06"
       },
       {
@@ -3050,9 +3050,9 @@
       },
       {
         "sourceStatus": "Observed",
-        "explanation": "Côte d'Ivoire is listed by the UN Statistics Division in the M49 Western Africa geographic subregion.",
+        "explanation": "CÃ´te d'Ivoire is listed by the UN Statistics Division in the M49 Western Africa geographic subregion.",
         "displayOrder": 6,
-        "displayText": "Côte d'Ivoire",
+        "displayText": "CÃ´te d'Ivoire",
         "id": "DD-037517-A06"
       },
       {
@@ -7924,8 +7924,8 @@
         "sourceStatus": "Observed",
         "displayOrder": 3,
         "id": "DD-037549-A03",
-        "explanation": "Hiʻiaka is a recognized moon of Haumea.",
-        "displayText": "Hiʻiaka"
+        "explanation": "HiÊ»iaka is a recognized moon of Haumea.",
+        "displayText": "HiÊ»iaka"
       },
       {
         "sourceStatus": "Observed",
@@ -8014,8 +8014,8 @@
         "sourceStatus": "Observed",
         "displayOrder": 3,
         "id": "DD-037549-A03",
-        "explanation": "Hiʻiaka is a recognized moon of Haumea.",
-        "displayText": "Hiʻiaka"
+        "explanation": "HiÊ»iaka is a recognized moon of Haumea.",
+        "displayText": "HiÊ»iaka"
       },
       {
         "sourceStatus": "Observed",
@@ -9230,10 +9230,10 @@
       },
       {
         "id": "DD-037557-A12",
-        "displayText": "Türkiye",
+        "displayText": "TÃ¼rkiye",
         "displayOrder": 12,
         "sourceStatus": "Observed",
-        "explanation": "Türkiye does not appear in the official membership list for the named organization."
+        "explanation": "TÃ¼rkiye does not appear in the official membership list for the named organization."
       }
     ],
     "resultOrder": [
@@ -9938,7 +9938,7 @@
         "displayText": "Chile",
         "displayOrder": 2,
         "sourceStatus": "Observed",
-        "explanation": "Chile does not share a land boundary with Brazil, so it does not meet this question’s geographic criterion."
+        "explanation": "Chile does not share a land boundary with Brazil, so it does not meet this questionâ€™s geographic criterion."
       },
       {
         "id": "DD-037562-A03",
@@ -9952,7 +9952,7 @@
         "displayText": "Ecuador",
         "displayOrder": 4,
         "sourceStatus": "Observed",
-        "explanation": "Ecuador does not share a land boundary with Brazil, so it does not meet this question’s geographic criterion."
+        "explanation": "Ecuador does not share a land boundary with Brazil, so it does not meet this questionâ€™s geographic criterion."
       },
       {
         "id": "DD-037562-A05",
@@ -9966,7 +9966,7 @@
         "displayText": "Panama",
         "displayOrder": 6,
         "sourceStatus": "Observed",
-        "explanation": "Panama does not share a land boundary with Brazil, so it does not meet this question’s geographic criterion."
+        "explanation": "Panama does not share a land boundary with Brazil, so it does not meet this questionâ€™s geographic criterion."
       },
       {
         "id": "DD-037562-A07",
@@ -9980,7 +9980,7 @@
         "displayText": "Costa Rica",
         "displayOrder": 8,
         "sourceStatus": "Observed",
-        "explanation": "Costa Rica does not share a land boundary with Brazil, so it does not meet this question’s geographic criterion."
+        "explanation": "Costa Rica does not share a land boundary with Brazil, so it does not meet this questionâ€™s geographic criterion."
       },
       {
         "id": "DD-037562-A09",
@@ -10093,7 +10093,7 @@
         "displayText": "Thailand",
         "displayOrder": 2,
         "sourceStatus": "Observed",
-        "explanation": "Thailand does not share a land boundary with China, so it does not meet this question’s geographic criterion."
+        "explanation": "Thailand does not share a land boundary with China, so it does not meet this questionâ€™s geographic criterion."
       },
       {
         "id": "DD-037563-A03",
@@ -10107,7 +10107,7 @@
         "displayText": "Cambodia",
         "displayOrder": 4,
         "sourceStatus": "Observed",
-        "explanation": "Cambodia does not share a land boundary with China, so it does not meet this question’s geographic criterion."
+        "explanation": "Cambodia does not share a land boundary with China, so it does not meet this questionâ€™s geographic criterion."
       },
       {
         "id": "DD-037563-A05",
@@ -10121,7 +10121,7 @@
         "displayText": "Bangladesh",
         "displayOrder": 6,
         "sourceStatus": "Observed",
-        "explanation": "Bangladesh does not share a land boundary with China, so it does not meet this question’s geographic criterion."
+        "explanation": "Bangladesh does not share a land boundary with China, so it does not meet this questionâ€™s geographic criterion."
       },
       {
         "id": "DD-037563-A07",
@@ -10135,7 +10135,7 @@
         "displayText": "South Korea",
         "displayOrder": 8,
         "sourceStatus": "Observed",
-        "explanation": "South Korea does not share a land boundary with China, so it does not meet this question’s geographic criterion."
+        "explanation": "South Korea does not share a land boundary with China, so it does not meet this questionâ€™s geographic criterion."
       },
       {
         "id": "DD-037563-A09",
@@ -10248,7 +10248,7 @@
         "displayText": "Sweden",
         "displayOrder": 2,
         "sourceStatus": "Observed",
-        "explanation": "Sweden does not share a land boundary with Russia, so it does not meet this question’s geographic criterion."
+        "explanation": "Sweden does not share a land boundary with Russia, so it does not meet this questionâ€™s geographic criterion."
       },
       {
         "id": "DD-037564-A03",
@@ -10262,7 +10262,7 @@
         "displayText": "Japan",
         "displayOrder": 4,
         "sourceStatus": "Observed",
-        "explanation": "Japan does not share a land boundary with Russia, so it does not meet this question’s geographic criterion."
+        "explanation": "Japan does not share a land boundary with Russia, so it does not meet this questionâ€™s geographic criterion."
       },
       {
         "id": "DD-037564-A05",
@@ -10276,7 +10276,7 @@
         "displayText": "Romania",
         "displayOrder": 6,
         "sourceStatus": "Observed",
-        "explanation": "Romania does not share a land boundary with Russia, so it does not meet this question’s geographic criterion."
+        "explanation": "Romania does not share a land boundary with Russia, so it does not meet this questionâ€™s geographic criterion."
       },
       {
         "id": "DD-037564-A07",
@@ -10290,7 +10290,7 @@
         "displayText": "Iran",
         "displayOrder": 8,
         "sourceStatus": "Observed",
-        "explanation": "Iran does not share a land boundary with Russia, so it does not meet this question’s geographic criterion."
+        "explanation": "Iran does not share a land boundary with Russia, so it does not meet this questionâ€™s geographic criterion."
       },
       {
         "id": "DD-037564-A09",
@@ -10403,7 +10403,7 @@
         "displayText": "Italy",
         "displayOrder": 2,
         "sourceStatus": "Observed",
-        "explanation": "Italy does not share a land boundary with Germany, so it does not meet this question’s geographic criterion."
+        "explanation": "Italy does not share a land boundary with Germany, so it does not meet this questionâ€™s geographic criterion."
       },
       {
         "id": "DD-037565-A03",
@@ -10417,7 +10417,7 @@
         "displayText": "Sweden",
         "displayOrder": 4,
         "sourceStatus": "Observed",
-        "explanation": "Sweden does not share a land boundary with Germany, so it does not meet this question’s geographic criterion."
+        "explanation": "Sweden does not share a land boundary with Germany, so it does not meet this questionâ€™s geographic criterion."
       },
       {
         "id": "DD-037565-A05",
@@ -10431,7 +10431,7 @@
         "displayText": "Slovakia",
         "displayOrder": 6,
         "sourceStatus": "Observed",
-        "explanation": "Slovakia does not share a land boundary with Germany, so it does not meet this question’s geographic criterion."
+        "explanation": "Slovakia does not share a land boundary with Germany, so it does not meet this questionâ€™s geographic criterion."
       },
       {
         "id": "DD-037565-A07",
@@ -10445,7 +10445,7 @@
         "displayText": "Hungary",
         "displayOrder": 8,
         "sourceStatus": "Observed",
-        "explanation": "Hungary does not share a land boundary with Germany, so it does not meet this question’s geographic criterion."
+        "explanation": "Hungary does not share a land boundary with Germany, so it does not meet this questionâ€™s geographic criterion."
       },
       {
         "id": "DD-037565-A09",
@@ -10558,7 +10558,7 @@
         "displayText": "Kenya",
         "displayOrder": 2,
         "sourceStatus": "Observed",
-        "explanation": "Kenya does not share a land boundary with the Democratic Republic of the Congo, so it does not meet this question’s geographic criterion."
+        "explanation": "Kenya does not share a land boundary with the Democratic Republic of the Congo, so it does not meet this questionâ€™s geographic criterion."
       },
       {
         "id": "DD-037566-A03",
@@ -10572,7 +10572,7 @@
         "displayText": "Gabon",
         "displayOrder": 4,
         "sourceStatus": "Observed",
-        "explanation": "Gabon does not share a land boundary with the Democratic Republic of the Congo, so it does not meet this question’s geographic criterion."
+        "explanation": "Gabon does not share a land boundary with the Democratic Republic of the Congo, so it does not meet this questionâ€™s geographic criterion."
       },
       {
         "id": "DD-037566-A05",
@@ -10586,7 +10586,7 @@
         "displayText": "Ethiopia",
         "displayOrder": 6,
         "sourceStatus": "Observed",
-        "explanation": "Ethiopia does not share a land boundary with the Democratic Republic of the Congo, so it does not meet this question’s geographic criterion."
+        "explanation": "Ethiopia does not share a land boundary with the Democratic Republic of the Congo, so it does not meet this questionâ€™s geographic criterion."
       },
       {
         "id": "DD-037566-A07",
@@ -10600,7 +10600,7 @@
         "displayText": "Cameroon",
         "displayOrder": 8,
         "sourceStatus": "Observed",
-        "explanation": "Cameroon does not share a land boundary with the Democratic Republic of the Congo, so it does not meet this question’s geographic criterion."
+        "explanation": "Cameroon does not share a land boundary with the Democratic Republic of the Congo, so it does not meet this questionâ€™s geographic criterion."
       },
       {
         "id": "DD-037566-A09",
@@ -10713,7 +10713,7 @@
         "displayText": "South Africa",
         "displayOrder": 2,
         "sourceStatus": "Observed",
-        "explanation": "South Africa does not share a land boundary with Zambia, so it does not meet this question’s geographic criterion."
+        "explanation": "South Africa does not share a land boundary with Zambia, so it does not meet this questionâ€™s geographic criterion."
       },
       {
         "id": "DD-037567-A03",
@@ -10727,7 +10727,7 @@
         "displayText": "Lesotho",
         "displayOrder": 4,
         "sourceStatus": "Observed",
-        "explanation": "Lesotho does not share a land boundary with Zambia, so it does not meet this question’s geographic criterion."
+        "explanation": "Lesotho does not share a land boundary with Zambia, so it does not meet this questionâ€™s geographic criterion."
       },
       {
         "id": "DD-037567-A05",
@@ -10741,7 +10741,7 @@
         "displayText": "Kenya",
         "displayOrder": 6,
         "sourceStatus": "Observed",
-        "explanation": "Kenya does not share a land boundary with Zambia, so it does not meet this question’s geographic criterion."
+        "explanation": "Kenya does not share a land boundary with Zambia, so it does not meet this questionâ€™s geographic criterion."
       },
       {
         "id": "DD-037567-A07",
@@ -10755,7 +10755,7 @@
         "displayText": "Rwanda",
         "displayOrder": 8,
         "sourceStatus": "Observed",
-        "explanation": "Rwanda does not share a land boundary with Zambia, so it does not meet this question’s geographic criterion."
+        "explanation": "Rwanda does not share a land boundary with Zambia, so it does not meet this questionâ€™s geographic criterion."
       },
       {
         "id": "DD-037567-A09",
@@ -10868,7 +10868,7 @@
         "displayText": "Ethiopia",
         "displayOrder": 2,
         "sourceStatus": "Observed",
-        "explanation": "Ethiopia does not share a land boundary with Tanzania, so it does not meet this question’s geographic criterion."
+        "explanation": "Ethiopia does not share a land boundary with Tanzania, so it does not meet this questionâ€™s geographic criterion."
       },
       {
         "id": "DD-037568-A03",
@@ -10882,7 +10882,7 @@
         "displayText": "Somalia",
         "displayOrder": 4,
         "sourceStatus": "Observed",
-        "explanation": "Somalia does not share a land boundary with Tanzania, so it does not meet this question’s geographic criterion."
+        "explanation": "Somalia does not share a land boundary with Tanzania, so it does not meet this questionâ€™s geographic criterion."
       },
       {
         "id": "DD-037568-A05",
@@ -10896,7 +10896,7 @@
         "displayText": "Angola",
         "displayOrder": 6,
         "sourceStatus": "Observed",
-        "explanation": "Angola does not share a land boundary with Tanzania, so it does not meet this question’s geographic criterion."
+        "explanation": "Angola does not share a land boundary with Tanzania, so it does not meet this questionâ€™s geographic criterion."
       },
       {
         "id": "DD-037568-A07",
@@ -10910,7 +10910,7 @@
         "displayText": "South Sudan",
         "displayOrder": 8,
         "sourceStatus": "Observed",
-        "explanation": "South Sudan does not share a land boundary with Tanzania, so it does not meet this question’s geographic criterion."
+        "explanation": "South Sudan does not share a land boundary with Tanzania, so it does not meet this questionâ€™s geographic criterion."
       },
       {
         "id": "DD-037568-A09",
@@ -11023,7 +11023,7 @@
         "displayText": "France",
         "displayOrder": 2,
         "sourceStatus": "Observed",
-        "explanation": "France does not share a land boundary with Austria, so it does not meet this question’s geographic criterion."
+        "explanation": "France does not share a land boundary with Austria, so it does not meet this questionâ€™s geographic criterion."
       },
       {
         "id": "DD-037569-A03",
@@ -11037,7 +11037,7 @@
         "displayText": "Poland",
         "displayOrder": 4,
         "sourceStatus": "Observed",
-        "explanation": "Poland does not share a land boundary with Austria, so it does not meet this question’s geographic criterion."
+        "explanation": "Poland does not share a land boundary with Austria, so it does not meet this questionâ€™s geographic criterion."
       },
       {
         "id": "DD-037569-A05",
@@ -11051,7 +11051,7 @@
         "displayText": "Croatia",
         "displayOrder": 6,
         "sourceStatus": "Observed",
-        "explanation": "Croatia does not share a land boundary with Austria, so it does not meet this question’s geographic criterion."
+        "explanation": "Croatia does not share a land boundary with Austria, so it does not meet this questionâ€™s geographic criterion."
       },
       {
         "id": "DD-037569-A07",
@@ -11065,7 +11065,7 @@
         "displayText": "Belgium",
         "displayOrder": 8,
         "sourceStatus": "Observed",
-        "explanation": "Belgium does not share a land boundary with Austria, so it does not meet this question’s geographic criterion."
+        "explanation": "Belgium does not share a land boundary with Austria, so it does not meet this questionâ€™s geographic criterion."
       },
       {
         "id": "DD-037569-A09",
@@ -11163,92 +11163,92 @@
     "id": "DD-037570",
     "roundOrder": 73,
     "categoryId": "category-73",
-    "categoryTitle": "Countries sharing a land boundary with Türkiye",
-    "prompt": "Select the eight countries that share a land boundary with Türkiye. The reveal follows alphabetical order.",
+    "categoryTitle": "Countries sharing a land boundary with TÃ¼rkiye",
+    "prompt": "Select the eight countries that share a land boundary with TÃ¼rkiye. The reveal follows alphabetical order.",
     "answerOptions": [
       {
         "id": "DD-037570-A01",
         "displayText": "Armenia",
         "displayOrder": 1,
         "sourceStatus": "Observed",
-        "explanation": "Armenia shares a land boundary with Türkiye; the CIA World Factbook geography entry lists it among the bordering countries."
+        "explanation": "Armenia shares a land boundary with TÃ¼rkiye; the CIA World Factbook geography entry lists it among the bordering countries."
       },
       {
         "id": "DD-037570-A02",
         "displayText": "Lebanon",
         "displayOrder": 2,
         "sourceStatus": "Observed",
-        "explanation": "Lebanon does not share a land boundary with Türkiye, so it does not meet this question’s geographic criterion."
+        "explanation": "Lebanon does not share a land boundary with TÃ¼rkiye, so it does not meet this questionâ€™s geographic criterion."
       },
       {
         "id": "DD-037570-A03",
         "displayText": "Azerbaijan",
         "displayOrder": 3,
         "sourceStatus": "Observed",
-        "explanation": "Azerbaijan shares a land boundary with Türkiye; the CIA World Factbook geography entry lists it among the bordering countries."
+        "explanation": "Azerbaijan shares a land boundary with TÃ¼rkiye; the CIA World Factbook geography entry lists it among the bordering countries."
       },
       {
         "id": "DD-037570-A04",
         "displayText": "Jordan",
         "displayOrder": 4,
         "sourceStatus": "Observed",
-        "explanation": "Jordan does not share a land boundary with Türkiye, so it does not meet this question’s geographic criterion."
+        "explanation": "Jordan does not share a land boundary with TÃ¼rkiye, so it does not meet this questionâ€™s geographic criterion."
       },
       {
         "id": "DD-037570-A05",
         "displayText": "Bulgaria",
         "displayOrder": 5,
         "sourceStatus": "Observed",
-        "explanation": "Bulgaria shares a land boundary with Türkiye; the CIA World Factbook geography entry lists it among the bordering countries."
+        "explanation": "Bulgaria shares a land boundary with TÃ¼rkiye; the CIA World Factbook geography entry lists it among the bordering countries."
       },
       {
         "id": "DD-037570-A06",
         "displayText": "Egypt",
         "displayOrder": 6,
         "sourceStatus": "Observed",
-        "explanation": "Egypt does not share a land boundary with Türkiye, so it does not meet this question’s geographic criterion."
+        "explanation": "Egypt does not share a land boundary with TÃ¼rkiye, so it does not meet this questionâ€™s geographic criterion."
       },
       {
         "id": "DD-037570-A07",
         "displayText": "Georgia",
         "displayOrder": 7,
         "sourceStatus": "Observed",
-        "explanation": "Georgia shares a land boundary with Türkiye; the CIA World Factbook geography entry lists it among the bordering countries."
+        "explanation": "Georgia shares a land boundary with TÃ¼rkiye; the CIA World Factbook geography entry lists it among the bordering countries."
       },
       {
         "id": "DD-037570-A08",
         "displayText": "Romania",
         "displayOrder": 8,
         "sourceStatus": "Observed",
-        "explanation": "Romania does not share a land boundary with Türkiye, so it does not meet this question’s geographic criterion."
+        "explanation": "Romania does not share a land boundary with TÃ¼rkiye, so it does not meet this questionâ€™s geographic criterion."
       },
       {
         "id": "DD-037570-A09",
         "displayText": "Greece",
         "displayOrder": 9,
         "sourceStatus": "Observed",
-        "explanation": "Greece shares a land boundary with Türkiye; the CIA World Factbook geography entry lists it among the bordering countries."
+        "explanation": "Greece shares a land boundary with TÃ¼rkiye; the CIA World Factbook geography entry lists it among the bordering countries."
       },
       {
         "id": "DD-037570-A10",
         "displayText": "Iran",
         "displayOrder": 10,
         "sourceStatus": "Observed",
-        "explanation": "Iran shares a land boundary with Türkiye; the CIA World Factbook geography entry lists it among the bordering countries."
+        "explanation": "Iran shares a land boundary with TÃ¼rkiye; the CIA World Factbook geography entry lists it among the bordering countries."
       },
       {
         "id": "DD-037570-A11",
         "displayText": "Iraq",
         "displayOrder": 11,
         "sourceStatus": "Observed",
-        "explanation": "Iraq shares a land boundary with Türkiye; the CIA World Factbook geography entry lists it among the bordering countries."
+        "explanation": "Iraq shares a land boundary with TÃ¼rkiye; the CIA World Factbook geography entry lists it among the bordering countries."
       },
       {
         "id": "DD-037570-A12",
         "displayText": "Syria",
         "displayOrder": 12,
         "sourceStatus": "Observed",
-        "explanation": "Syria shares a land boundary with Türkiye; the CIA World Factbook geography entry lists it among the bordering countries."
+        "explanation": "Syria shares a land boundary with TÃ¼rkiye; the CIA World Factbook geography entry lists it among the bordering countries."
       }
     ],
     "resultOrder": [
@@ -11257,62 +11257,62 @@
         "displayText": "Armenia",
         "displayOrder": 1,
         "sourceStatus": "Observed",
-        "explanation": "Armenia shares a land boundary with Türkiye; the CIA World Factbook geography entry lists it among the bordering countries."
+        "explanation": "Armenia shares a land boundary with TÃ¼rkiye; the CIA World Factbook geography entry lists it among the bordering countries."
       },
       {
         "id": "DD-037570-A03",
         "displayText": "Azerbaijan",
         "displayOrder": 3,
         "sourceStatus": "Observed",
-        "explanation": "Azerbaijan shares a land boundary with Türkiye; the CIA World Factbook geography entry lists it among the bordering countries."
+        "explanation": "Azerbaijan shares a land boundary with TÃ¼rkiye; the CIA World Factbook geography entry lists it among the bordering countries."
       },
       {
         "id": "DD-037570-A05",
         "displayText": "Bulgaria",
         "displayOrder": 5,
         "sourceStatus": "Observed",
-        "explanation": "Bulgaria shares a land boundary with Türkiye; the CIA World Factbook geography entry lists it among the bordering countries."
+        "explanation": "Bulgaria shares a land boundary with TÃ¼rkiye; the CIA World Factbook geography entry lists it among the bordering countries."
       },
       {
         "id": "DD-037570-A07",
         "displayText": "Georgia",
         "displayOrder": 7,
         "sourceStatus": "Observed",
-        "explanation": "Georgia shares a land boundary with Türkiye; the CIA World Factbook geography entry lists it among the bordering countries."
+        "explanation": "Georgia shares a land boundary with TÃ¼rkiye; the CIA World Factbook geography entry lists it among the bordering countries."
       },
       {
         "id": "DD-037570-A09",
         "displayText": "Greece",
         "displayOrder": 9,
         "sourceStatus": "Observed",
-        "explanation": "Greece shares a land boundary with Türkiye; the CIA World Factbook geography entry lists it among the bordering countries."
+        "explanation": "Greece shares a land boundary with TÃ¼rkiye; the CIA World Factbook geography entry lists it among the bordering countries."
       },
       {
         "id": "DD-037570-A10",
         "displayText": "Iran",
         "displayOrder": 10,
         "sourceStatus": "Observed",
-        "explanation": "Iran shares a land boundary with Türkiye; the CIA World Factbook geography entry lists it among the bordering countries."
+        "explanation": "Iran shares a land boundary with TÃ¼rkiye; the CIA World Factbook geography entry lists it among the bordering countries."
       },
       {
         "id": "DD-037570-A11",
         "displayText": "Iraq",
         "displayOrder": 11,
         "sourceStatus": "Observed",
-        "explanation": "Iraq shares a land boundary with Türkiye; the CIA World Factbook geography entry lists it among the bordering countries."
+        "explanation": "Iraq shares a land boundary with TÃ¼rkiye; the CIA World Factbook geography entry lists it among the bordering countries."
       },
       {
         "id": "DD-037570-A12",
         "displayText": "Syria",
         "displayOrder": 12,
         "sourceStatus": "Observed",
-        "explanation": "Syria shares a land boundary with Türkiye; the CIA World Factbook geography entry lists it among the bordering countries."
+        "explanation": "Syria shares a land boundary with TÃ¼rkiye; the CIA World Factbook geography entry lists it among the bordering countries."
       }
     ],
     "submissions": [],
     "questionPoint": null,
     "configuredTimerSeconds": 5.0,
-    "answerDescription": "Eight options share a land boundary with Türkiye; the result list reveals those eight correct choices alphabetically."
+    "answerDescription": "Eight options share a land boundary with TÃ¼rkiye; the result list reveals those eight correct choices alphabetically."
   },
   {
     "id": "DD-037571",
@@ -11333,7 +11333,7 @@
         "displayText": "Austria",
         "displayOrder": 2,
         "sourceStatus": "Observed",
-        "explanation": "Austria does not share a land boundary with metropolitan France, so it does not meet this question’s geographic criterion."
+        "explanation": "Austria does not share a land boundary with metropolitan France, so it does not meet this questionâ€™s geographic criterion."
       },
       {
         "id": "DD-037571-A03",
@@ -11347,7 +11347,7 @@
         "displayText": "Netherlands",
         "displayOrder": 4,
         "sourceStatus": "Observed",
-        "explanation": "Netherlands does not share a land boundary with metropolitan France, so it does not meet this question’s geographic criterion."
+        "explanation": "Netherlands does not share a land boundary with metropolitan France, so it does not meet this questionâ€™s geographic criterion."
       },
       {
         "id": "DD-037571-A05",
@@ -11361,7 +11361,7 @@
         "displayText": "Portugal",
         "displayOrder": 6,
         "sourceStatus": "Observed",
-        "explanation": "Portugal does not share a land boundary with metropolitan France, so it does not meet this question’s geographic criterion."
+        "explanation": "Portugal does not share a land boundary with metropolitan France, so it does not meet this questionâ€™s geographic criterion."
       },
       {
         "id": "DD-037571-A07",
@@ -11375,7 +11375,7 @@
         "displayText": "Denmark",
         "displayOrder": 8,
         "sourceStatus": "Observed",
-        "explanation": "Denmark does not share a land boundary with metropolitan France, so it does not meet this question’s geographic criterion."
+        "explanation": "Denmark does not share a land boundary with metropolitan France, so it does not meet this questionâ€™s geographic criterion."
       },
       {
         "id": "DD-037571-A09",
@@ -12591,10 +12591,10 @@
       },
       {
         "id": "DD-037579-A03",
-        "displayText": "Côte d'Ivoire",
+        "displayText": "CÃ´te d'Ivoire",
         "displayOrder": 5,
         "sourceStatus": "Observed",
-        "explanation": "Côte d'Ivoire meets the stated geographic criterion, as shown by the cited reference map or geographic description."
+        "explanation": "CÃ´te d'Ivoire meets the stated geographic criterion, as shown by the cited reference map or geographic description."
       },
       {
         "id": "DD-037579-A11",
@@ -12663,10 +12663,10 @@
       },
       {
         "id": "DD-037579-A03",
-        "displayText": "Côte d'Ivoire",
+        "displayText": "CÃ´te d'Ivoire",
         "displayOrder": 5,
         "sourceStatus": "Observed",
-        "explanation": "Côte d'Ivoire meets the stated geographic criterion, as shown by the cited reference map or geographic description."
+        "explanation": "CÃ´te d'Ivoire meets the stated geographic criterion, as shown by the cited reference map or geographic description."
       },
       {
         "id": "DD-037579-A04",
@@ -13338,10 +13338,10 @@
     "answerOptions": [
       {
         "id": "DD-037584-A08",
-        "displayText": "Türkiye",
+        "displayText": "TÃ¼rkiye",
         "displayOrder": 1,
         "sourceStatus": "Observed",
-        "explanation": "Türkiye was one of the eight founding members of D-8 in 1997, as documented by D-8 historical sources."
+        "explanation": "TÃ¼rkiye was one of the eight founding members of D-8 in 1997, as documented by D-8 historical sources."
       },
       {
         "id": "DD-037584-A10",
@@ -13473,10 +13473,10 @@
       },
       {
         "id": "DD-037584-A08",
-        "displayText": "Türkiye",
+        "displayText": "TÃ¼rkiye",
         "displayOrder": 1,
         "sourceStatus": "Observed",
-        "explanation": "Türkiye was one of the eight founding members of D-8 in 1997, as documented by D-8 historical sources."
+        "explanation": "TÃ¼rkiye was one of the eight founding members of D-8 in 1997, as documented by D-8 historical sources."
       }
     ],
     "submissions": [],
@@ -13690,10 +13690,10 @@
       },
       {
         "id": "DD-037586-A07",
-        "displayText": "Türkiye",
+        "displayText": "TÃ¼rkiye",
         "displayOrder": 7,
         "sourceStatus": "Observed",
-        "explanation": "Türkiye meets the stated criterion, according to CIA World Factbook."
+        "explanation": "TÃ¼rkiye meets the stated criterion, according to CIA World Factbook."
       },
       {
         "id": "DD-037586-A04",
@@ -13776,10 +13776,10 @@
       },
       {
         "id": "DD-037586-A07",
-        "displayText": "Türkiye",
+        "displayText": "TÃ¼rkiye",
         "displayOrder": 7,
         "sourceStatus": "Observed",
-        "explanation": "Türkiye meets the stated criterion, according to CIA World Factbook."
+        "explanation": "TÃ¼rkiye meets the stated criterion, according to CIA World Factbook."
       },
       {
         "id": "DD-037586-A08",
@@ -14028,10 +14028,10 @@
       },
       {
         "id": "DD-037588-A04",
-        "displayText": "Côte d’Ivoire",
+        "displayText": "CÃ´te dâ€™Ivoire",
         "displayOrder": 11,
         "sourceStatus": "Observed",
-        "explanation": "Côte d’Ivoire meets the stated criterion, according to UN Statistics Division M49."
+        "explanation": "CÃ´te dâ€™Ivoire meets the stated criterion, according to UN Statistics Division M49."
       },
       {
         "id": "DD-037588-A12",
@@ -14065,10 +14065,10 @@
       },
       {
         "id": "DD-037588-A04",
-        "displayText": "Côte d’Ivoire",
+        "displayText": "CÃ´te dâ€™Ivoire",
         "displayOrder": 11,
         "sourceStatus": "Observed",
-        "explanation": "Côte d’Ivoire meets the stated criterion, according to UN Statistics Division M49."
+        "explanation": "CÃ´te dâ€™Ivoire meets the stated criterion, according to UN Statistics Division M49."
       },
       {
         "id": "DD-037588-A05",
@@ -14599,10 +14599,10 @@
       },
       {
         "id": "DD-037592-A12",
-        "displayText": "Türkiye",
+        "displayText": "TÃ¼rkiye",
         "displayOrder": 4,
         "sourceStatus": "Observed",
-        "explanation": "Türkiye is assigned to a different UN M49 subregion, so it does not meet the Southern Asia criterion."
+        "explanation": "TÃ¼rkiye is assigned to a different UN M49 subregion, so it does not meet the Southern Asia criterion."
       },
       {
         "id": "DD-037592-A03",
@@ -17695,7 +17695,7 @@
         "displayText": "New Moon",
         "displayOrder": 3,
         "sourceStatus": "Observed",
-        "explanation": "The Moon’s illuminated side faces the Sun and its night side faces Earth."
+        "explanation": "The Moonâ€™s illuminated side faces the Sun and its night side faces Earth."
       },
       {
         "id": "DD-037620-A10",
@@ -17767,7 +17767,7 @@
         "displayText": "New Moon",
         "displayOrder": 3,
         "sourceStatus": "Observed",
-        "explanation": "The Moon’s illuminated side faces the Sun and its night side faces Earth."
+        "explanation": "The Moonâ€™s illuminated side faces the Sun and its night side faces Earth."
       },
       {
         "id": "DD-037620-A02",
@@ -18293,7 +18293,7 @@
     "id": "DD-037624",
     "roundOrder": 37623,
     "categoryId": "category-37623",
-    "categoryTitle": "Hawaii’s eight major islands",
+    "categoryTitle": "Hawaiiâ€™s eight major islands",
     "prompt": "Select the eight major islands of the State of Hawaii. Reveal in the northwest-to-southeast order given by the State of Hawaii reference.",
     "answerOptions": [
       {
@@ -18308,7 +18308,7 @@
         "displayText": "Midway",
         "displayOrder": 2,
         "sourceStatus": "Observed",
-        "explanation": "Midway is not one of the State of Hawaii’s eight major islands."
+        "explanation": "Midway is not one of the State of Hawaiiâ€™s eight major islands."
       },
       {
         "id": "DD-037624-A01",
@@ -18322,7 +18322,7 @@
         "displayText": "Johnston Atoll",
         "displayOrder": 4,
         "sourceStatus": "Observed",
-        "explanation": "Johnston Atoll is a separate atoll, not one of Hawaii’s eight major islands."
+        "explanation": "Johnston Atoll is a separate atoll, not one of Hawaiiâ€™s eight major islands."
       },
       {
         "id": "DD-037624-A02",
@@ -18336,7 +18336,7 @@
         "displayText": "Kure Atoll",
         "displayOrder": 6,
         "sourceStatus": "Observed",
-        "explanation": "Kure Atoll is a northwestern atoll, not one of Hawaii’s eight major islands."
+        "explanation": "Kure Atoll is a northwestern atoll, not one of Hawaiiâ€™s eight major islands."
       },
       {
         "id": "DD-037624-A03",
@@ -18350,7 +18350,7 @@
         "displayText": "Palmyra Atoll",
         "displayOrder": 8,
         "sourceStatus": "Observed",
-        "explanation": "Palmyra Atoll is not included among Hawaii’s eight major islands."
+        "explanation": "Palmyra Atoll is not included among Hawaiiâ€™s eight major islands."
       },
       {
         "id": "DD-037624-A05",
@@ -18759,56 +18759,56 @@
     "roundOrder": 37626,
     "categoryId": "category-37626",
     "categoryTitle": "The reindeer named in A Visit from St. Nicholas",
-    "prompt": "Select the eight reindeer named in Clement Clarke Moore’s poem A Visit from St. Nicholas. Reveal in the order they appear in the poem.",
+    "prompt": "Select the eight reindeer named in Clement Clarke Mooreâ€™s poem A Visit from St. Nicholas. Reveal in the order they appear in the poem.",
     "answerOptions": [
       {
         "id": "DD-037627-A04",
         "displayText": "Vixen",
         "displayOrder": 1,
         "sourceStatus": "Observed",
-        "explanation": "Vixen is named in the poem’s reindeer passage."
+        "explanation": "Vixen is named in the poemâ€™s reindeer passage."
       },
       {
         "id": "DD-037627-A09",
         "displayText": "Rudolph",
         "displayOrder": 2,
         "sourceStatus": "Observed",
-        "explanation": "Rudolph was introduced in a later story and does not appear in Moore’s poem."
+        "explanation": "Rudolph was introduced in a later story and does not appear in Mooreâ€™s poem."
       },
       {
         "id": "DD-037627-A01",
         "displayText": "Dasher",
         "displayOrder": 3,
         "sourceStatus": "Observed",
-        "explanation": "Dasher is named in the poem’s reindeer passage."
+        "explanation": "Dasher is named in the poemâ€™s reindeer passage."
       },
       {
         "id": "DD-037627-A10",
         "displayText": "Olive",
         "displayOrder": 4,
         "sourceStatus": "Observed",
-        "explanation": "Olive is not named as a reindeer in Moore’s poem."
+        "explanation": "Olive is not named as a reindeer in Mooreâ€™s poem."
       },
       {
         "id": "DD-037627-A02",
         "displayText": "Dancer",
         "displayOrder": 5,
         "sourceStatus": "Observed",
-        "explanation": "Dancer is named in the poem’s reindeer passage."
+        "explanation": "Dancer is named in the poemâ€™s reindeer passage."
       },
       {
         "id": "DD-037627-A11",
         "displayText": "Clarice",
         "displayOrder": 6,
         "sourceStatus": "Observed",
-        "explanation": "Clarice belongs to later Rudolph adaptations, not Moore’s poem."
+        "explanation": "Clarice belongs to later Rudolph adaptations, not Mooreâ€™s poem."
       },
       {
         "id": "DD-037627-A03",
         "displayText": "Prancer",
         "displayOrder": 7,
         "sourceStatus": "Observed",
-        "explanation": "Prancer is named in the poem’s reindeer passage."
+        "explanation": "Prancer is named in the poemâ€™s reindeer passage."
       },
       {
         "id": "DD-037627-A12",
@@ -18822,14 +18822,14 @@
         "displayText": "Comet",
         "displayOrder": 9,
         "sourceStatus": "Observed",
-        "explanation": "Comet is named in the poem’s reindeer passage."
+        "explanation": "Comet is named in the poemâ€™s reindeer passage."
       },
       {
         "id": "DD-037627-A06",
         "displayText": "Cupid",
         "displayOrder": 10,
         "sourceStatus": "Observed",
-        "explanation": "Cupid is named in the poem’s reindeer passage."
+        "explanation": "Cupid is named in the poemâ€™s reindeer passage."
       },
       {
         "id": "DD-037627-A07",
@@ -18852,42 +18852,42 @@
         "displayText": "Dasher",
         "displayOrder": 3,
         "sourceStatus": "Observed",
-        "explanation": "Dasher is named in the poem’s reindeer passage."
+        "explanation": "Dasher is named in the poemâ€™s reindeer passage."
       },
       {
         "id": "DD-037627-A02",
         "displayText": "Dancer",
         "displayOrder": 5,
         "sourceStatus": "Observed",
-        "explanation": "Dancer is named in the poem’s reindeer passage."
+        "explanation": "Dancer is named in the poemâ€™s reindeer passage."
       },
       {
         "id": "DD-037627-A03",
         "displayText": "Prancer",
         "displayOrder": 7,
         "sourceStatus": "Observed",
-        "explanation": "Prancer is named in the poem’s reindeer passage."
+        "explanation": "Prancer is named in the poemâ€™s reindeer passage."
       },
       {
         "id": "DD-037627-A04",
         "displayText": "Vixen",
         "displayOrder": 1,
         "sourceStatus": "Observed",
-        "explanation": "Vixen is named in the poem’s reindeer passage."
+        "explanation": "Vixen is named in the poemâ€™s reindeer passage."
       },
       {
         "id": "DD-037627-A05",
         "displayText": "Comet",
         "displayOrder": 9,
         "sourceStatus": "Observed",
-        "explanation": "Comet is named in the poem’s reindeer passage."
+        "explanation": "Comet is named in the poemâ€™s reindeer passage."
       },
       {
         "id": "DD-037627-A06",
         "displayText": "Cupid",
         "displayOrder": 10,
         "sourceStatus": "Observed",
-        "explanation": "Cupid is named in the poem’s reindeer passage."
+        "explanation": "Cupid is named in the poemâ€™s reindeer passage."
       },
       {
         "id": "DD-037627-A07",
@@ -19069,14 +19069,14 @@
     "roundOrder": 37628,
     "categoryId": "category-37628",
     "categoryTitle": "The eight classical dance forms of India",
-    "prompt": "Select the eight classical dance forms identified by India’s official tourism portal. Reveal alphabetically by displayed name.",
+    "prompt": "Select the eight classical dance forms identified by Indiaâ€™s official tourism portal. Reveal alphabetically by displayed name.",
     "answerOptions": [
       {
         "id": "DD-037629-A04",
         "displayText": "Kuchipudi",
         "displayOrder": 1,
         "sourceStatus": "Observed",
-        "explanation": "Kuchipudi is one of the eight classical forms listed by India’s official tourism portal."
+        "explanation": "Kuchipudi is one of the eight classical forms listed by Indiaâ€™s official tourism portal."
       },
       {
         "id": "DD-037629-A09",
@@ -19090,7 +19090,7 @@
         "displayText": "Bharatanatyam",
         "displayOrder": 3,
         "sourceStatus": "Observed",
-        "explanation": "Bharatanatyam is one of the eight classical forms listed by India’s official tourism portal."
+        "explanation": "Bharatanatyam is one of the eight classical forms listed by Indiaâ€™s official tourism portal."
       },
       {
         "id": "DD-037629-A10",
@@ -19104,7 +19104,7 @@
         "displayText": "Kathak",
         "displayOrder": 5,
         "sourceStatus": "Observed",
-        "explanation": "Kathak is one of the eight classical forms listed by India’s official tourism portal."
+        "explanation": "Kathak is one of the eight classical forms listed by Indiaâ€™s official tourism portal."
       },
       {
         "id": "DD-037629-A11",
@@ -19118,7 +19118,7 @@
         "displayText": "Kathakali",
         "displayOrder": 7,
         "sourceStatus": "Observed",
-        "explanation": "Kathakali is one of the eight classical forms listed by India’s official tourism portal."
+        "explanation": "Kathakali is one of the eight classical forms listed by Indiaâ€™s official tourism portal."
       },
       {
         "id": "DD-037629-A12",
@@ -19132,28 +19132,28 @@
         "displayText": "Manipuri",
         "displayOrder": 9,
         "sourceStatus": "Observed",
-        "explanation": "Manipuri is one of the eight classical forms listed by India’s official tourism portal."
+        "explanation": "Manipuri is one of the eight classical forms listed by Indiaâ€™s official tourism portal."
       },
       {
         "id": "DD-037629-A06",
         "displayText": "Mohiniyattam",
         "displayOrder": 10,
         "sourceStatus": "Observed",
-        "explanation": "Mohiniyattam is one of the eight classical forms listed by India’s official tourism portal."
+        "explanation": "Mohiniyattam is one of the eight classical forms listed by Indiaâ€™s official tourism portal."
       },
       {
         "id": "DD-037629-A07",
         "displayText": "Odissi",
         "displayOrder": 11,
         "sourceStatus": "Observed",
-        "explanation": "Odissi is one of the eight classical forms listed by India’s official tourism portal."
+        "explanation": "Odissi is one of the eight classical forms listed by Indiaâ€™s official tourism portal."
       },
       {
         "id": "DD-037629-A08",
         "displayText": "Sattriya",
         "displayOrder": 12,
         "sourceStatus": "Observed",
-        "explanation": "Sattriya is one of the eight classical forms listed by India’s official tourism portal."
+        "explanation": "Sattriya is one of the eight classical forms listed by Indiaâ€™s official tourism portal."
       }
     ],
     "resultOrder": [
@@ -19162,56 +19162,56 @@
         "displayText": "Bharatanatyam",
         "displayOrder": 3,
         "sourceStatus": "Observed",
-        "explanation": "Bharatanatyam is one of the eight classical forms listed by India’s official tourism portal."
+        "explanation": "Bharatanatyam is one of the eight classical forms listed by Indiaâ€™s official tourism portal."
       },
       {
         "id": "DD-037629-A02",
         "displayText": "Kathak",
         "displayOrder": 5,
         "sourceStatus": "Observed",
-        "explanation": "Kathak is one of the eight classical forms listed by India’s official tourism portal."
+        "explanation": "Kathak is one of the eight classical forms listed by Indiaâ€™s official tourism portal."
       },
       {
         "id": "DD-037629-A03",
         "displayText": "Kathakali",
         "displayOrder": 7,
         "sourceStatus": "Observed",
-        "explanation": "Kathakali is one of the eight classical forms listed by India’s official tourism portal."
+        "explanation": "Kathakali is one of the eight classical forms listed by Indiaâ€™s official tourism portal."
       },
       {
         "id": "DD-037629-A04",
         "displayText": "Kuchipudi",
         "displayOrder": 1,
         "sourceStatus": "Observed",
-        "explanation": "Kuchipudi is one of the eight classical forms listed by India’s official tourism portal."
+        "explanation": "Kuchipudi is one of the eight classical forms listed by Indiaâ€™s official tourism portal."
       },
       {
         "id": "DD-037629-A05",
         "displayText": "Manipuri",
         "displayOrder": 9,
         "sourceStatus": "Observed",
-        "explanation": "Manipuri is one of the eight classical forms listed by India’s official tourism portal."
+        "explanation": "Manipuri is one of the eight classical forms listed by Indiaâ€™s official tourism portal."
       },
       {
         "id": "DD-037629-A06",
         "displayText": "Mohiniyattam",
         "displayOrder": 10,
         "sourceStatus": "Observed",
-        "explanation": "Mohiniyattam is one of the eight classical forms listed by India’s official tourism portal."
+        "explanation": "Mohiniyattam is one of the eight classical forms listed by Indiaâ€™s official tourism portal."
       },
       {
         "id": "DD-037629-A07",
         "displayText": "Odissi",
         "displayOrder": 11,
         "sourceStatus": "Observed",
-        "explanation": "Odissi is one of the eight classical forms listed by India’s official tourism portal."
+        "explanation": "Odissi is one of the eight classical forms listed by Indiaâ€™s official tourism portal."
       },
       {
         "id": "DD-037629-A08",
         "displayText": "Sattriya",
         "displayOrder": 12,
         "sourceStatus": "Observed",
-        "explanation": "Sattriya is one of the eight classical forms listed by India’s official tourism portal."
+        "explanation": "Sattriya is one of the eight classical forms listed by Indiaâ€™s official tourism portal."
       }
     ],
     "submissions": [],
@@ -20768,5 +20768,3105 @@
     "questionPoint": null,
     "configuredTimerSeconds": 5.0,
     "answerDescription": "Eight choices meet the stated category criterion. The result list reveals the correct choices alphabetically. Source: NASA Science, Moon Phases."
+  },
+  {
+    "id": "DD-037640",
+    "roundOrder": 143,
+    "categoryId": "category-37640",
+    "categoryTitle": "Eight structures in the human digestive tract",
+    "prompt": "Select the eight structures food passes through along the human digestive tract, from entry to exit. Reveal in anatomical order.",
+    "answerOptions": [
+      {
+        "id": "DD-037640-A01",
+        "displayText": "Stomach",
+        "displayOrder": 1,
+        "sourceStatus": "Observed",
+        "explanation": "The stomach mixes food with acid and digestive enzymes."
+      },
+      {
+        "id": "DD-037640-A02",
+        "displayText": "Rectum",
+        "displayOrder": 2,
+        "sourceStatus": "Observed",
+        "explanation": "The rectum stores stool before elimination."
+      },
+      {
+        "id": "DD-037640-A03",
+        "displayText": "Esophagus",
+        "displayOrder": 3,
+        "sourceStatus": "Observed",
+        "explanation": "The esophagus moves swallowed food to the stomach."
+      },
+      {
+        "id": "DD-037640-A04",
+        "displayText": "Spleen",
+        "displayOrder": 4,
+        "sourceStatus": "Observed",
+        "explanation": "The spleen supports immune and blood functions and is not part of the digestive tract."
+      },
+      {
+        "id": "DD-037640-A05",
+        "displayText": "Liver",
+        "displayOrder": 5,
+        "sourceStatus": "Observed",
+        "explanation": "The liver produces bile, but food does not pass through the liver."
+      },
+      {
+        "id": "DD-037640-A06",
+        "displayText": "Pharynx",
+        "displayOrder": 6,
+        "sourceStatus": "Observed",
+        "explanation": "The pharynx carries swallowed food from the mouth toward the esophagus."
+      },
+      {
+        "id": "DD-037640-A07",
+        "displayText": "Anus",
+        "displayOrder": 7,
+        "sourceStatus": "Observed",
+        "explanation": "The anus is the outlet through which stool leaves the digestive tract."
+      },
+      {
+        "id": "DD-037640-A08",
+        "displayText": "Large intestine",
+        "displayOrder": 8,
+        "sourceStatus": "Observed",
+        "explanation": "The large intestine absorbs water and helps form stool."
+      },
+      {
+        "id": "DD-037640-A09",
+        "displayText": "Mouth",
+        "displayOrder": 9,
+        "sourceStatus": "Observed",
+        "explanation": "The mouth receives food and begins digestion by chewing and mixing it with saliva."
+      },
+      {
+        "id": "DD-037640-A10",
+        "displayText": "Pancreas",
+        "displayOrder": 10,
+        "sourceStatus": "Observed",
+        "explanation": "The pancreas supplies digestive juices but food does not pass through it."
+      },
+      {
+        "id": "DD-037640-A11",
+        "displayText": "Small intestine",
+        "displayOrder": 11,
+        "sourceStatus": "Observed",
+        "explanation": "Most digestion and nutrient absorption occur in the small intestine."
+      },
+      {
+        "id": "DD-037640-A12",
+        "displayText": "Gallbladder",
+        "displayOrder": 12,
+        "sourceStatus": "Observed",
+        "explanation": "The gallbladder stores and concentrates bile; it is an accessory organ, not part of the food passage."
+      }
+    ],
+    "resultOrder": [
+      {
+        "id": "DD-037640-A09",
+        "displayText": "Mouth",
+        "displayOrder": 9,
+        "sourceStatus": "Observed",
+        "explanation": "The mouth receives food and begins digestion by chewing and mixing it with saliva."
+      },
+      {
+        "id": "DD-037640-A06",
+        "displayText": "Pharynx",
+        "displayOrder": 6,
+        "sourceStatus": "Observed",
+        "explanation": "The pharynx carries swallowed food from the mouth toward the esophagus."
+      },
+      {
+        "id": "DD-037640-A03",
+        "displayText": "Esophagus",
+        "displayOrder": 3,
+        "sourceStatus": "Observed",
+        "explanation": "The esophagus moves swallowed food to the stomach."
+      },
+      {
+        "id": "DD-037640-A01",
+        "displayText": "Stomach",
+        "displayOrder": 1,
+        "sourceStatus": "Observed",
+        "explanation": "The stomach mixes food with acid and digestive enzymes."
+      },
+      {
+        "id": "DD-037640-A11",
+        "displayText": "Small intestine",
+        "displayOrder": 11,
+        "sourceStatus": "Observed",
+        "explanation": "Most digestion and nutrient absorption occur in the small intestine."
+      },
+      {
+        "id": "DD-037640-A08",
+        "displayText": "Large intestine",
+        "displayOrder": 8,
+        "sourceStatus": "Observed",
+        "explanation": "The large intestine absorbs water and helps form stool."
+      },
+      {
+        "id": "DD-037640-A02",
+        "displayText": "Rectum",
+        "displayOrder": 2,
+        "sourceStatus": "Observed",
+        "explanation": "The rectum stores stool before elimination."
+      },
+      {
+        "id": "DD-037640-A07",
+        "displayText": "Anus",
+        "displayOrder": 7,
+        "sourceStatus": "Observed",
+        "explanation": "The anus is the outlet through which stool leaves the digestive tract."
+      }
+    ],
+    "submissions": [],
+    "questionPoint": null,
+    "configuredTimerSeconds": 5,
+    "answerDescription": "Eight choices meet the stated category criterion. The result list follows the category-specific reveal order."
+  },
+  {
+    "id": "DD-037641",
+    "roundOrder": 144,
+    "categoryId": "category-37641",
+    "categoryTitle": "Nobel Prize in Literature laureates from 2010 through 2017",
+    "prompt": "Select the eight people who received the Nobel Prize in Literature in the years 2010-2017 inclusive. Reveal by release year.",
+    "answerOptions": [
+      {
+        "id": "DD-037641-A01",
+        "displayText": "Mo Yan",
+        "displayOrder": 1,
+        "sourceStatus": "Observed",
+        "explanation": "Mo Yan received the 2012 Nobel Prize in Literature."
+      },
+      {
+        "id": "DD-037641-A02",
+        "displayText": "Mario Vargas Llosa",
+        "displayOrder": 2,
+        "sourceStatus": "Observed",
+        "explanation": "Mario Vargas Llosa received the 2010 Nobel Prize in Literature."
+      },
+      {
+        "id": "DD-037641-A03",
+        "displayText": "Patrick Modiano",
+        "displayOrder": 3,
+        "sourceStatus": "Observed",
+        "explanation": "Patrick Modiano received the 2014 Nobel Prize in Literature."
+      },
+      {
+        "id": "DD-037641-A04",
+        "displayText": "Margaret Atwood",
+        "displayOrder": 4,
+        "sourceStatus": "Observed",
+        "explanation": "Margaret Atwood was not a Nobel Prize in Literature laureate in 2010-2017."
+      },
+      {
+        "id": "DD-037641-A05",
+        "displayText": "Haruki Murakami",
+        "displayOrder": 5,
+        "sourceStatus": "Observed",
+        "explanation": "Haruki Murakami was not a Nobel Prize in Literature laureate in 2010-2017."
+      },
+      {
+        "id": "DD-037641-A06",
+        "displayText": "Milan Kundera",
+        "displayOrder": 6,
+        "sourceStatus": "Observed",
+        "explanation": "Milan Kundera was not a Nobel Prize in Literature laureate in 2010-2017."
+      },
+      {
+        "id": "DD-037641-A07",
+        "displayText": "Tomas Transtromer",
+        "displayOrder": 7,
+        "sourceStatus": "Observed",
+        "explanation": "Tomas Transtromer received the 2011 Nobel Prize in Literature."
+      },
+      {
+        "id": "DD-037641-A08",
+        "displayText": "Svetlana Alexievich",
+        "displayOrder": 8,
+        "sourceStatus": "Observed",
+        "explanation": "Svetlana Alexievich received the 2015 Nobel Prize in Literature."
+      },
+      {
+        "id": "DD-037641-A09",
+        "displayText": "Salman Rushdie",
+        "displayOrder": 9,
+        "sourceStatus": "Observed",
+        "explanation": "Salman Rushdie was not a Nobel Prize in Literature laureate in 2010-2017."
+      },
+      {
+        "id": "DD-037641-A10",
+        "displayText": "Bob Dylan",
+        "displayOrder": 10,
+        "sourceStatus": "Observed",
+        "explanation": "Bob Dylan received the 2016 Nobel Prize in Literature."
+      },
+      {
+        "id": "DD-037641-A11",
+        "displayText": "Kazuo Ishiguro",
+        "displayOrder": 11,
+        "sourceStatus": "Observed",
+        "explanation": "Kazuo Ishiguro received the 2017 Nobel Prize in Literature."
+      },
+      {
+        "id": "DD-037641-A12",
+        "displayText": "Alice Munro",
+        "displayOrder": 12,
+        "sourceStatus": "Observed",
+        "explanation": "Alice Munro received the 2013 Nobel Prize in Literature."
+      }
+    ],
+    "resultOrder": [
+      {
+        "id": "DD-037641-A02",
+        "displayText": "Mario Vargas Llosa",
+        "displayOrder": 2,
+        "sourceStatus": "Observed",
+        "explanation": "Mario Vargas Llosa received the 2010 Nobel Prize in Literature."
+      },
+      {
+        "id": "DD-037641-A07",
+        "displayText": "Tomas Transtromer",
+        "displayOrder": 7,
+        "sourceStatus": "Observed",
+        "explanation": "Tomas Transtromer received the 2011 Nobel Prize in Literature."
+      },
+      {
+        "id": "DD-037641-A01",
+        "displayText": "Mo Yan",
+        "displayOrder": 1,
+        "sourceStatus": "Observed",
+        "explanation": "Mo Yan received the 2012 Nobel Prize in Literature."
+      },
+      {
+        "id": "DD-037641-A12",
+        "displayText": "Alice Munro",
+        "displayOrder": 12,
+        "sourceStatus": "Observed",
+        "explanation": "Alice Munro received the 2013 Nobel Prize in Literature."
+      },
+      {
+        "id": "DD-037641-A03",
+        "displayText": "Patrick Modiano",
+        "displayOrder": 3,
+        "sourceStatus": "Observed",
+        "explanation": "Patrick Modiano received the 2014 Nobel Prize in Literature."
+      },
+      {
+        "id": "DD-037641-A08",
+        "displayText": "Svetlana Alexievich",
+        "displayOrder": 8,
+        "sourceStatus": "Observed",
+        "explanation": "Svetlana Alexievich received the 2015 Nobel Prize in Literature."
+      },
+      {
+        "id": "DD-037641-A10",
+        "displayText": "Bob Dylan",
+        "displayOrder": 10,
+        "sourceStatus": "Observed",
+        "explanation": "Bob Dylan received the 2016 Nobel Prize in Literature."
+      },
+      {
+        "id": "DD-037641-A11",
+        "displayText": "Kazuo Ishiguro",
+        "displayOrder": 11,
+        "sourceStatus": "Observed",
+        "explanation": "Kazuo Ishiguro received the 2017 Nobel Prize in Literature."
+      }
+    ],
+    "submissions": [],
+    "questionPoint": null,
+    "configuredTimerSeconds": 5,
+    "answerDescription": "Eight choices meet the stated category criterion. The result list follows the category-specific reveal order."
+  },
+  {
+    "id": "DD-037642",
+    "roundOrder": 145,
+    "categoryId": "category-37642",
+    "categoryTitle": "The eight living bear species",
+    "prompt": "Select the eight recognized living species commonly classified in the bear family (Ursidae). Reveal alphabetically.",
+    "answerOptions": [
+      {
+        "id": "DD-037642-A01",
+        "displayText": "Giant panda",
+        "displayOrder": 1,
+        "sourceStatus": "Observed",
+        "explanation": "The giant panda is a bear in family Ursidae."
+      },
+      {
+        "id": "DD-037642-A02",
+        "displayText": "Gray wolf",
+        "displayOrder": 2,
+        "sourceStatus": "Observed",
+        "explanation": "The gray wolf is a canid, not a bear in family Ursidae."
+      },
+      {
+        "id": "DD-037642-A03",
+        "displayText": "Spectacled bear",
+        "displayOrder": 3,
+        "sourceStatus": "Observed",
+        "explanation": "The spectacled bear is one of the living bear species in family Ursidae."
+      },
+      {
+        "id": "DD-037642-A04",
+        "displayText": "Red panda",
+        "displayOrder": 4,
+        "sourceStatus": "Observed",
+        "explanation": "The red panda is not classified in family Ursidae."
+      },
+      {
+        "id": "DD-037642-A05",
+        "displayText": "American black bear",
+        "displayOrder": 5,
+        "sourceStatus": "Observed",
+        "explanation": "The American black bear is one of the living bear species in family Ursidae."
+      },
+      {
+        "id": "DD-037642-A06",
+        "displayText": "Wolverine",
+        "displayOrder": 6,
+        "sourceStatus": "Observed",
+        "explanation": "The wolverine is a mustelid, not a bear species."
+      },
+      {
+        "id": "DD-037642-A07",
+        "displayText": "Raccoon",
+        "displayOrder": 7,
+        "sourceStatus": "Observed",
+        "explanation": "The raccoon is a procyonid, not a bear species."
+      },
+      {
+        "id": "DD-037642-A08",
+        "displayText": "Sloth bear",
+        "displayOrder": 8,
+        "sourceStatus": "Observed",
+        "explanation": "The sloth bear is one of the living bear species in family Ursidae."
+      },
+      {
+        "id": "DD-037642-A09",
+        "displayText": "Sun bear",
+        "displayOrder": 9,
+        "sourceStatus": "Observed",
+        "explanation": "The sun bear is one of the living bear species in family Ursidae."
+      },
+      {
+        "id": "DD-037642-A10",
+        "displayText": "Brown bear",
+        "displayOrder": 10,
+        "sourceStatus": "Observed",
+        "explanation": "The brown bear is one of the living bear species in family Ursidae."
+      },
+      {
+        "id": "DD-037642-A11",
+        "displayText": "Polar bear",
+        "displayOrder": 11,
+        "sourceStatus": "Observed",
+        "explanation": "The polar bear is one of the living bear species in family Ursidae."
+      },
+      {
+        "id": "DD-037642-A12",
+        "displayText": "Asiatic black bear",
+        "displayOrder": 12,
+        "sourceStatus": "Observed",
+        "explanation": "The Asiatic black bear is one of the living bear species in family Ursidae."
+      }
+    ],
+    "resultOrder": [
+      {
+        "id": "DD-037642-A05",
+        "displayText": "American black bear",
+        "displayOrder": 5,
+        "sourceStatus": "Observed",
+        "explanation": "The American black bear is one of the living bear species in family Ursidae."
+      },
+      {
+        "id": "DD-037642-A12",
+        "displayText": "Asiatic black bear",
+        "displayOrder": 12,
+        "sourceStatus": "Observed",
+        "explanation": "The Asiatic black bear is one of the living bear species in family Ursidae."
+      },
+      {
+        "id": "DD-037642-A10",
+        "displayText": "Brown bear",
+        "displayOrder": 10,
+        "sourceStatus": "Observed",
+        "explanation": "The brown bear is one of the living bear species in family Ursidae."
+      },
+      {
+        "id": "DD-037642-A01",
+        "displayText": "Giant panda",
+        "displayOrder": 1,
+        "sourceStatus": "Observed",
+        "explanation": "The giant panda is a bear in family Ursidae."
+      },
+      {
+        "id": "DD-037642-A11",
+        "displayText": "Polar bear",
+        "displayOrder": 11,
+        "sourceStatus": "Observed",
+        "explanation": "The polar bear is one of the living bear species in family Ursidae."
+      },
+      {
+        "id": "DD-037642-A08",
+        "displayText": "Sloth bear",
+        "displayOrder": 8,
+        "sourceStatus": "Observed",
+        "explanation": "The sloth bear is one of the living bear species in family Ursidae."
+      },
+      {
+        "id": "DD-037642-A03",
+        "displayText": "Spectacled bear",
+        "displayOrder": 3,
+        "sourceStatus": "Observed",
+        "explanation": "The spectacled bear is one of the living bear species in family Ursidae."
+      },
+      {
+        "id": "DD-037642-A09",
+        "displayText": "Sun bear",
+        "displayOrder": 9,
+        "sourceStatus": "Observed",
+        "explanation": "The sun bear is one of the living bear species in family Ursidae."
+      }
+    ],
+    "submissions": [],
+    "questionPoint": null,
+    "configuredTimerSeconds": 5,
+    "answerDescription": "Eight choices meet the stated category criterion. The result list follows the category-specific reveal order."
+  },
+  {
+    "id": "DD-037643",
+    "roundOrder": 146,
+    "categoryId": "category-37643",
+    "categoryTitle": "UNESCO World Heritage sites in India",
+    "prompt": "Select the eight named UNESCO World Heritage properties located in India. Reveal alphabetically.",
+    "answerOptions": [
+      {
+        "id": "DD-037643-A01",
+        "displayText": "Petra",
+        "displayOrder": 1,
+        "sourceStatus": "Observed",
+        "explanation": "Petra is a World Heritage property in Jordan, not India."
+      },
+      {
+        "id": "DD-037643-A02",
+        "displayText": "Sun Temple, Konarak",
+        "displayOrder": 2,
+        "sourceStatus": "Observed",
+        "explanation": "UNESCO lists the Sun Temple at Konarak as a World Heritage property in India."
+      },
+      {
+        "id": "DD-037643-A03",
+        "displayText": "Machu Picchu",
+        "displayOrder": 3,
+        "sourceStatus": "Observed",
+        "explanation": "Machu Picchu is a World Heritage property in Peru, not India."
+      },
+      {
+        "id": "DD-037643-A04",
+        "displayText": "Ellora Caves",
+        "displayOrder": 4,
+        "sourceStatus": "Observed",
+        "explanation": "UNESCO lists Ellora Caves as a World Heritage property in India."
+      },
+      {
+        "id": "DD-037643-A05",
+        "displayText": "Stonehenge",
+        "displayOrder": 5,
+        "sourceStatus": "Observed",
+        "explanation": "Stonehenge is a World Heritage property in the United Kingdom, not India."
+      },
+      {
+        "id": "DD-037643-A06",
+        "displayText": "Angkor",
+        "displayOrder": 6,
+        "sourceStatus": "Observed",
+        "explanation": "Angkor is a World Heritage property in Cambodia, not India."
+      },
+      {
+        "id": "DD-037643-A07",
+        "displayText": "Red Fort Complex",
+        "displayOrder": 7,
+        "sourceStatus": "Observed",
+        "explanation": "UNESCO lists the Red Fort Complex as a World Heritage property in India."
+      },
+      {
+        "id": "DD-037643-A08",
+        "displayText": "Group of Monuments at Hampi",
+        "displayOrder": 8,
+        "sourceStatus": "Observed",
+        "explanation": "UNESCO lists the Group of Monuments at Hampi as a World Heritage property in India."
+      },
+      {
+        "id": "DD-037643-A09",
+        "displayText": "Western Ghats",
+        "displayOrder": 9,
+        "sourceStatus": "Observed",
+        "explanation": "UNESCO lists the Western Ghats as a World Heritage property in India."
+      },
+      {
+        "id": "DD-037643-A10",
+        "displayText": "Taj Mahal",
+        "displayOrder": 10,
+        "sourceStatus": "Observed",
+        "explanation": "UNESCO lists the Taj Mahal as a World Heritage property in India."
+      },
+      {
+        "id": "DD-037643-A11",
+        "displayText": "Ajanta Caves",
+        "displayOrder": 11,
+        "sourceStatus": "Observed",
+        "explanation": "UNESCO lists Ajanta Caves as a World Heritage property in India."
+      },
+      {
+        "id": "DD-037643-A12",
+        "displayText": "Kaziranga National Park",
+        "displayOrder": 12,
+        "sourceStatus": "Observed",
+        "explanation": "UNESCO lists Kaziranga National Park as a World Heritage property in India."
+      }
+    ],
+    "resultOrder": [
+      {
+        "id": "DD-037643-A11",
+        "displayText": "Ajanta Caves",
+        "displayOrder": 11,
+        "sourceStatus": "Observed",
+        "explanation": "UNESCO lists Ajanta Caves as a World Heritage property in India."
+      },
+      {
+        "id": "DD-037643-A04",
+        "displayText": "Ellora Caves",
+        "displayOrder": 4,
+        "sourceStatus": "Observed",
+        "explanation": "UNESCO lists Ellora Caves as a World Heritage property in India."
+      },
+      {
+        "id": "DD-037643-A08",
+        "displayText": "Group of Monuments at Hampi",
+        "displayOrder": 8,
+        "sourceStatus": "Observed",
+        "explanation": "UNESCO lists the Group of Monuments at Hampi as a World Heritage property in India."
+      },
+      {
+        "id": "DD-037643-A12",
+        "displayText": "Kaziranga National Park",
+        "displayOrder": 12,
+        "sourceStatus": "Observed",
+        "explanation": "UNESCO lists Kaziranga National Park as a World Heritage property in India."
+      },
+      {
+        "id": "DD-037643-A07",
+        "displayText": "Red Fort Complex",
+        "displayOrder": 7,
+        "sourceStatus": "Observed",
+        "explanation": "UNESCO lists the Red Fort Complex as a World Heritage property in India."
+      },
+      {
+        "id": "DD-037643-A02",
+        "displayText": "Sun Temple, Konarak",
+        "displayOrder": 2,
+        "sourceStatus": "Observed",
+        "explanation": "UNESCO lists the Sun Temple at Konarak as a World Heritage property in India."
+      },
+      {
+        "id": "DD-037643-A10",
+        "displayText": "Taj Mahal",
+        "displayOrder": 10,
+        "sourceStatus": "Observed",
+        "explanation": "UNESCO lists the Taj Mahal as a World Heritage property in India."
+      },
+      {
+        "id": "DD-037643-A09",
+        "displayText": "Western Ghats",
+        "displayOrder": 9,
+        "sourceStatus": "Observed",
+        "explanation": "UNESCO lists the Western Ghats as a World Heritage property in India."
+      }
+    ],
+    "submissions": [],
+    "questionPoint": null,
+    "configuredTimerSeconds": 5,
+    "answerDescription": "Eight choices meet the stated category criterion. The result list follows the category-specific reveal order."
+  },
+  {
+    "id": "DD-037644",
+    "roundOrder": 147,
+    "categoryId": "category-37644",
+    "categoryTitle": "The eight most abundant elements in Earth's crust",
+    "prompt": "Select the eight most abundant chemical elements in Earth's crust by mass. Reveal from most abundant to least abundant.",
+    "answerOptions": [
+      {
+        "id": "DD-037644-A01",
+        "displayText": "Magnesium",
+        "displayOrder": 1,
+        "sourceStatus": "Observed",
+        "explanation": "Magnesium ranks eighth among elements in Earths crust by mass."
+      },
+      {
+        "id": "DD-037644-A02",
+        "displayText": "Silicon",
+        "displayOrder": 2,
+        "sourceStatus": "Observed",
+        "explanation": "Silicon is the second most abundant element in Earths crust by mass."
+      },
+      {
+        "id": "DD-037644-A03",
+        "displayText": "Sulfur",
+        "displayOrder": 3,
+        "sourceStatus": "Observed",
+        "explanation": "Sulfur is not among the eight most abundant elements in Earths crust by mass."
+      },
+      {
+        "id": "DD-037644-A04",
+        "displayText": "Aluminum",
+        "displayOrder": 4,
+        "sourceStatus": "Observed",
+        "explanation": "Aluminum is the third most abundant element in Earths crust by mass."
+      },
+      {
+        "id": "DD-037644-A05",
+        "displayText": "Sodium",
+        "displayOrder": 5,
+        "sourceStatus": "Observed",
+        "explanation": "Sodium ranks sixth among elements in Earths crust by mass."
+      },
+      {
+        "id": "DD-037644-A06",
+        "displayText": "Carbon",
+        "displayOrder": 6,
+        "sourceStatus": "Observed",
+        "explanation": "Carbon is not among the eight most abundant elements in Earths crust by mass."
+      },
+      {
+        "id": "DD-037644-A07",
+        "displayText": "Oxygen",
+        "displayOrder": 7,
+        "sourceStatus": "Observed",
+        "explanation": "Oxygen is the most abundant element in Earths crust by mass."
+      },
+      {
+        "id": "DD-037644-A08",
+        "displayText": "Potassium",
+        "displayOrder": 8,
+        "sourceStatus": "Observed",
+        "explanation": "Potassium ranks seventh among elements in Earths crust by mass."
+      },
+      {
+        "id": "DD-037644-A09",
+        "displayText": "Iron",
+        "displayOrder": 9,
+        "sourceStatus": "Observed",
+        "explanation": "Iron is the fourth most abundant element in Earths crust by mass."
+      },
+      {
+        "id": "DD-037644-A10",
+        "displayText": "Nitrogen",
+        "displayOrder": 10,
+        "sourceStatus": "Observed",
+        "explanation": "Nitrogen is not among the eight most abundant elements in Earths crust by mass."
+      },
+      {
+        "id": "DD-037644-A11",
+        "displayText": "Calcium",
+        "displayOrder": 11,
+        "sourceStatus": "Observed",
+        "explanation": "Calcium ranks fifth among elements in Earths crust by mass."
+      },
+      {
+        "id": "DD-037644-A12",
+        "displayText": "Hydrogen",
+        "displayOrder": 12,
+        "sourceStatus": "Observed",
+        "explanation": "Hydrogen is not among the eight most abundant elements in Earths crust by mass."
+      }
+    ],
+    "resultOrder": [
+      {
+        "id": "DD-037644-A07",
+        "displayText": "Oxygen",
+        "displayOrder": 7,
+        "sourceStatus": "Observed",
+        "explanation": "Oxygen is the most abundant element in Earths crust by mass."
+      },
+      {
+        "id": "DD-037644-A02",
+        "displayText": "Silicon",
+        "displayOrder": 2,
+        "sourceStatus": "Observed",
+        "explanation": "Silicon is the second most abundant element in Earths crust by mass."
+      },
+      {
+        "id": "DD-037644-A04",
+        "displayText": "Aluminum",
+        "displayOrder": 4,
+        "sourceStatus": "Observed",
+        "explanation": "Aluminum is the third most abundant element in Earths crust by mass."
+      },
+      {
+        "id": "DD-037644-A09",
+        "displayText": "Iron",
+        "displayOrder": 9,
+        "sourceStatus": "Observed",
+        "explanation": "Iron is the fourth most abundant element in Earths crust by mass."
+      },
+      {
+        "id": "DD-037644-A11",
+        "displayText": "Calcium",
+        "displayOrder": 11,
+        "sourceStatus": "Observed",
+        "explanation": "Calcium ranks fifth among elements in Earths crust by mass."
+      },
+      {
+        "id": "DD-037644-A05",
+        "displayText": "Sodium",
+        "displayOrder": 5,
+        "sourceStatus": "Observed",
+        "explanation": "Sodium ranks sixth among elements in Earths crust by mass."
+      },
+      {
+        "id": "DD-037644-A08",
+        "displayText": "Potassium",
+        "displayOrder": 8,
+        "sourceStatus": "Observed",
+        "explanation": "Potassium ranks seventh among elements in Earths crust by mass."
+      },
+      {
+        "id": "DD-037644-A01",
+        "displayText": "Magnesium",
+        "displayOrder": 1,
+        "sourceStatus": "Observed",
+        "explanation": "Magnesium ranks eighth among elements in Earths crust by mass."
+      }
+    ],
+    "submissions": [],
+    "questionPoint": null,
+    "configuredTimerSeconds": 5,
+    "answerDescription": "Eight choices meet the stated category criterion. The result list follows the category-specific reveal order."
+  },
+  {
+    "id": "DD-037645",
+    "roundOrder": 148,
+    "categoryId": "category-37645",
+    "categoryTitle": "Academy Award for Best Picture winners for films released from 2010 through 2017",
+    "prompt": "Select the eight films that won the Academy Award for Best Picture for films released in 2010-2017 inclusive. Reveal by release year.",
+    "answerOptions": [
+      {
+        "id": "DD-037645-A01",
+        "displayText": "Spotlight",
+        "displayOrder": 1,
+        "sourceStatus": "Observed",
+        "explanation": "Spotlight won Best Picture among films released in 2015."
+      },
+      {
+        "id": "DD-037645-A02",
+        "displayText": "The Artist",
+        "displayOrder": 2,
+        "sourceStatus": "Observed",
+        "explanation": "The Artist won Best Picture among films released in 2011."
+      },
+      {
+        "id": "DD-037645-A03",
+        "displayText": "The Shape of Water",
+        "displayOrder": 3,
+        "sourceStatus": "Observed",
+        "explanation": "The Shape of Water won Best Picture among films released in 2017."
+      },
+      {
+        "id": "DD-037645-A04",
+        "displayText": "La La Land",
+        "displayOrder": 4,
+        "sourceStatus": "Observed",
+        "explanation": "La La Land did not win Best Picture for films released in 2010-2017."
+      },
+      {
+        "id": "DD-037645-A05",
+        "displayText": "Hugo",
+        "displayOrder": 5,
+        "sourceStatus": "Observed",
+        "explanation": "Hugo did not win Best Picture for films released in 2010-2017."
+      },
+      {
+        "id": "DD-037645-A06",
+        "displayText": "American Hustle",
+        "displayOrder": 6,
+        "sourceStatus": "Observed",
+        "explanation": "American Hustle did not win Best Picture for films released in 2010-2017."
+      },
+      {
+        "id": "DD-037645-A07",
+        "displayText": "Moonlight",
+        "displayOrder": 7,
+        "sourceStatus": "Observed",
+        "explanation": "Moonlight won Best Picture among films released in 2016."
+      },
+      {
+        "id": "DD-037645-A08",
+        "displayText": "Argo",
+        "displayOrder": 8,
+        "sourceStatus": "Observed",
+        "explanation": "Argo won Best Picture among films released in 2012."
+      },
+      {
+        "id": "DD-037645-A09",
+        "displayText": "The King's Speech",
+        "displayOrder": 9,
+        "sourceStatus": "Observed",
+        "explanation": "The Kings Speech won Best Picture among films released in 2010."
+      },
+      {
+        "id": "DD-037645-A10",
+        "displayText": "Birdman",
+        "displayOrder": 10,
+        "sourceStatus": "Observed",
+        "explanation": "Birdman won Best Picture among films released in 2014."
+      },
+      {
+        "id": "DD-037645-A11",
+        "displayText": "Inception",
+        "displayOrder": 11,
+        "sourceStatus": "Observed",
+        "explanation": "Inception did not win Best Picture for films released in 2010-2017."
+      },
+      {
+        "id": "DD-037645-A12",
+        "displayText": "12 Years a Slave",
+        "displayOrder": 12,
+        "sourceStatus": "Observed",
+        "explanation": "12 Years a Slave won Best Picture among films released in 2013."
+      }
+    ],
+    "resultOrder": [
+      {
+        "id": "DD-037645-A09",
+        "displayText": "The King's Speech",
+        "displayOrder": 9,
+        "sourceStatus": "Observed",
+        "explanation": "The Kings Speech won Best Picture among films released in 2010."
+      },
+      {
+        "id": "DD-037645-A02",
+        "displayText": "The Artist",
+        "displayOrder": 2,
+        "sourceStatus": "Observed",
+        "explanation": "The Artist won Best Picture among films released in 2011."
+      },
+      {
+        "id": "DD-037645-A08",
+        "displayText": "Argo",
+        "displayOrder": 8,
+        "sourceStatus": "Observed",
+        "explanation": "Argo won Best Picture among films released in 2012."
+      },
+      {
+        "id": "DD-037645-A12",
+        "displayText": "12 Years a Slave",
+        "displayOrder": 12,
+        "sourceStatus": "Observed",
+        "explanation": "12 Years a Slave won Best Picture among films released in 2013."
+      },
+      {
+        "id": "DD-037645-A10",
+        "displayText": "Birdman",
+        "displayOrder": 10,
+        "sourceStatus": "Observed",
+        "explanation": "Birdman won Best Picture among films released in 2014."
+      },
+      {
+        "id": "DD-037645-A01",
+        "displayText": "Spotlight",
+        "displayOrder": 1,
+        "sourceStatus": "Observed",
+        "explanation": "Spotlight won Best Picture among films released in 2015."
+      },
+      {
+        "id": "DD-037645-A07",
+        "displayText": "Moonlight",
+        "displayOrder": 7,
+        "sourceStatus": "Observed",
+        "explanation": "Moonlight won Best Picture among films released in 2016."
+      },
+      {
+        "id": "DD-037645-A03",
+        "displayText": "The Shape of Water",
+        "displayOrder": 3,
+        "sourceStatus": "Observed",
+        "explanation": "The Shape of Water won Best Picture among films released in 2017."
+      }
+    ],
+    "submissions": [],
+    "questionPoint": null,
+    "configuredTimerSeconds": 5,
+    "answerDescription": "Eight choices meet the stated category criterion. The result list follows the category-specific reveal order."
+  },
+  {
+    "id": "DD-037646",
+    "roundOrder": 149,
+    "categoryId": "category-37646",
+    "categoryTitle": "Eight Olympian gods and goddesses of Greek mythology",
+    "prompt": "Select the eight figures traditionally counted among the Olympian gods and goddesses. Reveal alphabetically.",
+    "answerOptions": [
+      {
+        "id": "DD-037646-A01",
+        "displayText": "Ares",
+        "displayOrder": 1,
+        "sourceStatus": "Observed",
+        "explanation": "Ares is the Olympian god associated with war."
+      },
+      {
+        "id": "DD-037646-A02",
+        "displayText": "Apollo",
+        "displayOrder": 2,
+        "sourceStatus": "Observed",
+        "explanation": "Apollo is an Olympian god associated with music, prophecy, and healing."
+      },
+      {
+        "id": "DD-037646-A03",
+        "displayText": "Prometheus",
+        "displayOrder": 3,
+        "sourceStatus": "Observed",
+        "explanation": "Prometheus is a Titan, not one of the Olympian gods."
+      },
+      {
+        "id": "DD-037646-A04",
+        "displayText": "Rhea",
+        "displayOrder": 4,
+        "sourceStatus": "Observed",
+        "explanation": "Rhea is a Titan, not one of the Olympian gods."
+      },
+      {
+        "id": "DD-037646-A05",
+        "displayText": "Cronus",
+        "displayOrder": 5,
+        "sourceStatus": "Observed",
+        "explanation": "Cronus is a Titan, not one of the Olympian gods."
+      },
+      {
+        "id": "DD-037646-A06",
+        "displayText": "Aphrodite",
+        "displayOrder": 6,
+        "sourceStatus": "Observed",
+        "explanation": "Aphrodite is an Olympian goddess associated with love and beauty."
+      },
+      {
+        "id": "DD-037646-A07",
+        "displayText": "Demeter",
+        "displayOrder": 7,
+        "sourceStatus": "Observed",
+        "explanation": "Demeter is an Olympian goddess associated with agriculture and the harvest."
+      },
+      {
+        "id": "DD-037646-A08",
+        "displayText": "Hera",
+        "displayOrder": 8,
+        "sourceStatus": "Observed",
+        "explanation": "Hera is an Olympian goddess associated with marriage and queenship."
+      },
+      {
+        "id": "DD-037646-A09",
+        "displayText": "Artemis",
+        "displayOrder": 9,
+        "sourceStatus": "Observed",
+        "explanation": "Artemis is an Olympian goddess associated with hunting and wilderness."
+      },
+      {
+        "id": "DD-037646-A10",
+        "displayText": "Hephaestus",
+        "displayOrder": 10,
+        "sourceStatus": "Observed",
+        "explanation": "Hephaestus is the Olympian god associated with metalworking and craftsmanship."
+      },
+      {
+        "id": "DD-037646-A11",
+        "displayText": "Atlas",
+        "displayOrder": 11,
+        "sourceStatus": "Observed",
+        "explanation": "Atlas is a Titan, not one of the Olympian gods."
+      },
+      {
+        "id": "DD-037646-A12",
+        "displayText": "Athena",
+        "displayOrder": 12,
+        "sourceStatus": "Observed",
+        "explanation": "Athena is an Olympian goddess associated with wisdom and strategic warfare."
+      }
+    ],
+    "resultOrder": [
+      {
+        "id": "DD-037646-A06",
+        "displayText": "Aphrodite",
+        "displayOrder": 6,
+        "sourceStatus": "Observed",
+        "explanation": "Aphrodite is an Olympian goddess associated with love and beauty."
+      },
+      {
+        "id": "DD-037646-A02",
+        "displayText": "Apollo",
+        "displayOrder": 2,
+        "sourceStatus": "Observed",
+        "explanation": "Apollo is an Olympian god associated with music, prophecy, and healing."
+      },
+      {
+        "id": "DD-037646-A01",
+        "displayText": "Ares",
+        "displayOrder": 1,
+        "sourceStatus": "Observed",
+        "explanation": "Ares is the Olympian god associated with war."
+      },
+      {
+        "id": "DD-037646-A09",
+        "displayText": "Artemis",
+        "displayOrder": 9,
+        "sourceStatus": "Observed",
+        "explanation": "Artemis is an Olympian goddess associated with hunting and wilderness."
+      },
+      {
+        "id": "DD-037646-A12",
+        "displayText": "Athena",
+        "displayOrder": 12,
+        "sourceStatus": "Observed",
+        "explanation": "Athena is an Olympian goddess associated with wisdom and strategic warfare."
+      },
+      {
+        "id": "DD-037646-A07",
+        "displayText": "Demeter",
+        "displayOrder": 7,
+        "sourceStatus": "Observed",
+        "explanation": "Demeter is an Olympian goddess associated with agriculture and the harvest."
+      },
+      {
+        "id": "DD-037646-A10",
+        "displayText": "Hephaestus",
+        "displayOrder": 10,
+        "sourceStatus": "Observed",
+        "explanation": "Hephaestus is the Olympian god associated with metalworking and craftsmanship."
+      },
+      {
+        "id": "DD-037646-A08",
+        "displayText": "Hera",
+        "displayOrder": 8,
+        "sourceStatus": "Observed",
+        "explanation": "Hera is an Olympian goddess associated with marriage and queenship."
+      }
+    ],
+    "submissions": [],
+    "questionPoint": null,
+    "configuredTimerSeconds": 5,
+    "answerDescription": "Eight choices meet the stated category criterion. The result list follows the category-specific reveal order."
+  },
+  {
+    "id": "DD-037647",
+    "roundOrder": 150,
+    "categoryId": "category-37647",
+    "categoryTitle": "Programming languages created before 1970",
+    "prompt": "Select the eight programming languages first developed before 1970. Reveal alphabetically.",
+    "answerOptions": [
+      {
+        "id": "DD-037647-A01",
+        "displayText": "C++",
+        "displayOrder": 1,
+        "sourceStatus": "Observed",
+        "explanation": "C++ was developed in the 1980s, after the cutoff."
+      },
+      {
+        "id": "DD-037647-A02",
+        "displayText": "Fortran",
+        "displayOrder": 2,
+        "sourceStatus": "Observed",
+        "explanation": "Fortran was first released in 1957, before 1970."
+      },
+      {
+        "id": "DD-037647-A03",
+        "displayText": "C",
+        "displayOrder": 3,
+        "sourceStatus": "Observed",
+        "explanation": "C was developed around 1972, after the cutoff."
+      },
+      {
+        "id": "DD-037647-A04",
+        "displayText": "COBOL",
+        "displayOrder": 4,
+        "sourceStatus": "Observed",
+        "explanation": "COBOL was developed in 1959, before 1970."
+      },
+      {
+        "id": "DD-037647-A05",
+        "displayText": "Lisp",
+        "displayOrder": 5,
+        "sourceStatus": "Observed",
+        "explanation": "Lisp was created in 1958, before 1970."
+      },
+      {
+        "id": "DD-037647-A06",
+        "displayText": "BASIC",
+        "displayOrder": 6,
+        "sourceStatus": "Observed",
+        "explanation": "BASIC was first designed in 1964, before 1970."
+      },
+      {
+        "id": "DD-037647-A07",
+        "displayText": "Simula",
+        "displayOrder": 7,
+        "sourceStatus": "Observed",
+        "explanation": "Simula was developed in the 1960s, before 1970."
+      },
+      {
+        "id": "DD-037647-A08",
+        "displayText": "Logo",
+        "displayOrder": 8,
+        "sourceStatus": "Observed",
+        "explanation": "Logo was developed in 1967, before 1970."
+      },
+      {
+        "id": "DD-037647-A09",
+        "displayText": "SQL",
+        "displayOrder": 9,
+        "sourceStatus": "Observed",
+        "explanation": "SQL was developed in the 1970s, after the cutoff."
+      },
+      {
+        "id": "DD-037647-A10",
+        "displayText": "PL/I",
+        "displayOrder": 10,
+        "sourceStatus": "Observed",
+        "explanation": "PL/I was developed in the 1960s, before 1970."
+      },
+      {
+        "id": "DD-037647-A11",
+        "displayText": "Python",
+        "displayOrder": 11,
+        "sourceStatus": "Observed",
+        "explanation": "Python was first released in 1991, after the cutoff."
+      },
+      {
+        "id": "DD-037647-A12",
+        "displayText": "APL",
+        "displayOrder": 12,
+        "sourceStatus": "Observed",
+        "explanation": "APL was developed in the 1960s, before 1970."
+      }
+    ],
+    "resultOrder": [
+      {
+        "id": "DD-037647-A12",
+        "displayText": "APL",
+        "displayOrder": 12,
+        "sourceStatus": "Observed",
+        "explanation": "APL was developed in the 1960s, before 1970."
+      },
+      {
+        "id": "DD-037647-A06",
+        "displayText": "BASIC",
+        "displayOrder": 6,
+        "sourceStatus": "Observed",
+        "explanation": "BASIC was first designed in 1964, before 1970."
+      },
+      {
+        "id": "DD-037647-A04",
+        "displayText": "COBOL",
+        "displayOrder": 4,
+        "sourceStatus": "Observed",
+        "explanation": "COBOL was developed in 1959, before 1970."
+      },
+      {
+        "id": "DD-037647-A02",
+        "displayText": "Fortran",
+        "displayOrder": 2,
+        "sourceStatus": "Observed",
+        "explanation": "Fortran was first released in 1957, before 1970."
+      },
+      {
+        "id": "DD-037647-A05",
+        "displayText": "Lisp",
+        "displayOrder": 5,
+        "sourceStatus": "Observed",
+        "explanation": "Lisp was created in 1958, before 1970."
+      },
+      {
+        "id": "DD-037647-A08",
+        "displayText": "Logo",
+        "displayOrder": 8,
+        "sourceStatus": "Observed",
+        "explanation": "Logo was developed in 1967, before 1970."
+      },
+      {
+        "id": "DD-037647-A10",
+        "displayText": "PL/I",
+        "displayOrder": 10,
+        "sourceStatus": "Observed",
+        "explanation": "PL/I was developed in the 1960s, before 1970."
+      },
+      {
+        "id": "DD-037647-A07",
+        "displayText": "Simula",
+        "displayOrder": 7,
+        "sourceStatus": "Observed",
+        "explanation": "Simula was developed in the 1960s, before 1970."
+      }
+    ],
+    "submissions": [],
+    "questionPoint": null,
+    "configuredTimerSeconds": 5,
+    "answerDescription": "Eight choices meet the stated category criterion. The result list follows the category-specific reveal order."
+  },
+  {
+    "id": "DD-037648",
+    "roundOrder": 151,
+    "categoryId": "category-37648",
+    "categoryTitle": "Countries that have won the FIFA Men's World Cup",
+    "prompt": "Select the eight countries that have won the FIFA Men's World Cup through the 2026 tournament. Reveal alphabetically.",
+    "answerOptions": [
+      {
+        "id": "DD-037648-A01",
+        "displayText": "Brazil",
+        "displayOrder": 1,
+        "sourceStatus": "Observed",
+        "explanation": "Brazil won the FIFA Mens World Cup five times, most recently in 2002."
+      },
+      {
+        "id": "DD-037648-A02",
+        "displayText": "Portugal",
+        "displayOrder": 2,
+        "sourceStatus": "Observed",
+        "explanation": "Portugal have not won the FIFA Mens World Cup."
+      },
+      {
+        "id": "DD-037648-A03",
+        "displayText": "France",
+        "displayOrder": 3,
+        "sourceStatus": "Observed",
+        "explanation": "France won the FIFA Mens World Cup in 1998 and 2018."
+      },
+      {
+        "id": "DD-037648-A04",
+        "displayText": "Spain",
+        "displayOrder": 4,
+        "sourceStatus": "Observed",
+        "explanation": "Spain won the FIFA Mens World Cup in 2010 and 2026."
+      },
+      {
+        "id": "DD-037648-A05",
+        "displayText": "England",
+        "displayOrder": 5,
+        "sourceStatus": "Observed",
+        "explanation": "England won the FIFA Mens World Cup in 1966."
+      },
+      {
+        "id": "DD-037648-A06",
+        "displayText": "Germany",
+        "displayOrder": 6,
+        "sourceStatus": "Observed",
+        "explanation": "Germany won as West Germany in 1954, 1974, and 1990, then as Germany in 2014."
+      },
+      {
+        "id": "DD-037648-A07",
+        "displayText": "Argentina",
+        "displayOrder": 7,
+        "sourceStatus": "Observed",
+        "explanation": "Argentina won the FIFA Mens World Cup in 1978, 1986, and 2022."
+      },
+      {
+        "id": "DD-037648-A08",
+        "displayText": "Italy",
+        "displayOrder": 8,
+        "sourceStatus": "Observed",
+        "explanation": "Italy won the FIFA Mens World Cup in 1934, 1938, 1982, and 2006."
+      },
+      {
+        "id": "DD-037648-A09",
+        "displayText": "Mexico",
+        "displayOrder": 9,
+        "sourceStatus": "Observed",
+        "explanation": "Mexico have not won the FIFA Mens World Cup."
+      },
+      {
+        "id": "DD-037648-A10",
+        "displayText": "Croatia",
+        "displayOrder": 10,
+        "sourceStatus": "Observed",
+        "explanation": "Croatia reached the final in 2018 but has not won the FIFA Mens World Cup."
+      },
+      {
+        "id": "DD-037648-A11",
+        "displayText": "Netherlands",
+        "displayOrder": 11,
+        "sourceStatus": "Observed",
+        "explanation": "The Netherlands have reached finals but have not won the FIFA Mens World Cup."
+      },
+      {
+        "id": "DD-037648-A12",
+        "displayText": "Uruguay",
+        "displayOrder": 12,
+        "sourceStatus": "Observed",
+        "explanation": "Uruguay won the first FIFA Mens World Cup in 1930 and won again in 1950."
+      }
+    ],
+    "resultOrder": [
+      {
+        "id": "DD-037648-A07",
+        "displayText": "Argentina",
+        "displayOrder": 7,
+        "sourceStatus": "Observed",
+        "explanation": "Argentina won the FIFA Mens World Cup in 1978, 1986, and 2022."
+      },
+      {
+        "id": "DD-037648-A01",
+        "displayText": "Brazil",
+        "displayOrder": 1,
+        "sourceStatus": "Observed",
+        "explanation": "Brazil won the FIFA Mens World Cup five times, most recently in 2002."
+      },
+      {
+        "id": "DD-037648-A05",
+        "displayText": "England",
+        "displayOrder": 5,
+        "sourceStatus": "Observed",
+        "explanation": "England won the FIFA Mens World Cup in 1966."
+      },
+      {
+        "id": "DD-037648-A03",
+        "displayText": "France",
+        "displayOrder": 3,
+        "sourceStatus": "Observed",
+        "explanation": "France won the FIFA Mens World Cup in 1998 and 2018."
+      },
+      {
+        "id": "DD-037648-A06",
+        "displayText": "Germany",
+        "displayOrder": 6,
+        "sourceStatus": "Observed",
+        "explanation": "Germany won as West Germany in 1954, 1974, and 1990, then as Germany in 2014."
+      },
+      {
+        "id": "DD-037648-A08",
+        "displayText": "Italy",
+        "displayOrder": 8,
+        "sourceStatus": "Observed",
+        "explanation": "Italy won the FIFA Mens World Cup in 1934, 1938, 1982, and 2006."
+      },
+      {
+        "id": "DD-037648-A04",
+        "displayText": "Spain",
+        "displayOrder": 4,
+        "sourceStatus": "Observed",
+        "explanation": "Spain won the FIFA Mens World Cup in 2010 and 2026."
+      },
+      {
+        "id": "DD-037648-A12",
+        "displayText": "Uruguay",
+        "displayOrder": 12,
+        "sourceStatus": "Observed",
+        "explanation": "Uruguay won the first FIFA Mens World Cup in 1930 and won again in 1950."
+      }
+    ],
+    "submissions": [],
+    "questionPoint": null,
+    "configuredTimerSeconds": 5,
+    "answerDescription": "Eight choices meet the stated category criterion. The result list follows the category-specific reveal order."
+  },
+  {
+    "id": "DD-037649",
+    "roundOrder": 152,
+    "categoryId": "category-37649",
+    "categoryTitle": "Shakespeare tragedies",
+    "prompt": "Select eight plays traditionally classified as tragedies in William Shakespeare-s canon. Reveal alphabetically.",
+    "answerOptions": [
+      {
+        "id": "DD-037649-A01",
+        "displayText": "Julius Caesar",
+        "displayOrder": 1,
+        "sourceStatus": "Observed",
+        "explanation": "Folger classifies Julius Caesar among Shakespeares tragedies."
+      },
+      {
+        "id": "DD-037649-A02",
+        "displayText": "Coriolanus",
+        "displayOrder": 2,
+        "sourceStatus": "Observed",
+        "explanation": "Folger classifies Coriolanus among Shakespeares tragedies."
+      },
+      {
+        "id": "DD-037649-A03",
+        "displayText": "A Midsummer Night's Dream",
+        "displayOrder": 3,
+        "sourceStatus": "Observed",
+        "explanation": "A Midsummer Night's Dream does not satisfy the category definition for this question."
+      },
+      {
+        "id": "DD-037649-A04",
+        "displayText": "King Lear",
+        "displayOrder": 4,
+        "sourceStatus": "Observed",
+        "explanation": "Folger classifies King Lear among Shakespeares tragedies."
+      },
+      {
+        "id": "DD-037649-A05",
+        "displayText": "Antony and Cleopatra",
+        "displayOrder": 5,
+        "sourceStatus": "Observed",
+        "explanation": "Folger classifies Antony and Cleopatra among Shakespeares tragedies."
+      },
+      {
+        "id": "DD-037649-A06",
+        "displayText": "Romeo and Juliet",
+        "displayOrder": 6,
+        "sourceStatus": "Observed",
+        "explanation": "Folger classifies Romeo and Juliet among Shakespeares tragedies."
+      },
+      {
+        "id": "DD-037649-A07",
+        "displayText": "Much Ado About Nothing",
+        "displayOrder": 7,
+        "sourceStatus": "Observed",
+        "explanation": "Folger classifies Much Ado About Nothing as a comedy, not a tragedy."
+      },
+      {
+        "id": "DD-037649-A08",
+        "displayText": "Macbeth",
+        "displayOrder": 8,
+        "sourceStatus": "Observed",
+        "explanation": "Folger classifies Macbeth among Shakespeares tragedies."
+      },
+      {
+        "id": "DD-037649-A09",
+        "displayText": "Hamlet",
+        "displayOrder": 9,
+        "sourceStatus": "Observed",
+        "explanation": "Folger classifies Hamlet among Shakespeares tragedies."
+      },
+      {
+        "id": "DD-037649-A10",
+        "displayText": "Othello",
+        "displayOrder": 10,
+        "sourceStatus": "Observed",
+        "explanation": "Folger classifies Othello among Shakespeares tragedies."
+      },
+      {
+        "id": "DD-037649-A11",
+        "displayText": "Henry V",
+        "displayOrder": 11,
+        "sourceStatus": "Observed",
+        "explanation": "Folger classifies Henry V as a history play, not a tragedy."
+      },
+      {
+        "id": "DD-037649-A12",
+        "displayText": "The Tempest",
+        "displayOrder": 12,
+        "sourceStatus": "Observed",
+        "explanation": "Folger classifies The Tempest among comedies, not tragedies."
+      }
+    ],
+    "resultOrder": [
+      {
+        "id": "DD-037649-A05",
+        "displayText": "Antony and Cleopatra",
+        "displayOrder": 5,
+        "sourceStatus": "Observed",
+        "explanation": "Folger classifies Antony and Cleopatra among Shakespeares tragedies."
+      },
+      {
+        "id": "DD-037649-A02",
+        "displayText": "Coriolanus",
+        "displayOrder": 2,
+        "sourceStatus": "Observed",
+        "explanation": "Folger classifies Coriolanus among Shakespeares tragedies."
+      },
+      {
+        "id": "DD-037649-A09",
+        "displayText": "Hamlet",
+        "displayOrder": 9,
+        "sourceStatus": "Observed",
+        "explanation": "Folger classifies Hamlet among Shakespeares tragedies."
+      },
+      {
+        "id": "DD-037649-A01",
+        "displayText": "Julius Caesar",
+        "displayOrder": 1,
+        "sourceStatus": "Observed",
+        "explanation": "Folger classifies Julius Caesar among Shakespeares tragedies."
+      },
+      {
+        "id": "DD-037649-A04",
+        "displayText": "King Lear",
+        "displayOrder": 4,
+        "sourceStatus": "Observed",
+        "explanation": "Folger classifies King Lear among Shakespeares tragedies."
+      },
+      {
+        "id": "DD-037649-A08",
+        "displayText": "Macbeth",
+        "displayOrder": 8,
+        "sourceStatus": "Observed",
+        "explanation": "Folger classifies Macbeth among Shakespeares tragedies."
+      },
+      {
+        "id": "DD-037649-A10",
+        "displayText": "Othello",
+        "displayOrder": 10,
+        "sourceStatus": "Observed",
+        "explanation": "Folger classifies Othello among Shakespeares tragedies."
+      },
+      {
+        "id": "DD-037649-A06",
+        "displayText": "Romeo and Juliet",
+        "displayOrder": 6,
+        "sourceStatus": "Observed",
+        "explanation": "Folger classifies Romeo and Juliet among Shakespeares tragedies."
+      }
+    ],
+    "submissions": [],
+    "questionPoint": null,
+    "configuredTimerSeconds": 5,
+    "answerDescription": "Eight choices meet the stated category criterion. The result list follows the category-specific reveal order."
+  },
+  {
+    "id": "DD-037650",
+    "roundOrder": 153,
+    "categoryId": "category-153",
+    "categoryTitle": "US states bordering the Great Lakes",
+    "prompt": "Select the eight US states that border at least one of the five Great Lakes. Reveal alphabetically.",
+    "answerOptions": [
+      {
+        "id": "DD-037650-A09",
+        "displayText": "Iowa",
+        "displayOrder": 1,
+        "sourceStatus": "Observed",
+        "explanation": "Iowa does not satisfy the stated category criterion for this question, according to the cited reference."
+      },
+      {
+        "id": "DD-037650-A11",
+        "displayText": "Missouri",
+        "displayOrder": 2,
+        "sourceStatus": "Observed",
+        "explanation": "Missouri does not satisfy the stated category criterion for this question, according to the cited reference."
+      },
+      {
+        "id": "DD-037650-A01",
+        "displayText": "Illinois",
+        "displayOrder": 3,
+        "sourceStatus": "Observed",
+        "explanation": "Illinois satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037650-A06",
+        "displayText": "Ohio",
+        "displayOrder": 4,
+        "sourceStatus": "Observed",
+        "explanation": "Ohio satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037650-A04",
+        "displayText": "Minnesota",
+        "displayOrder": 5,
+        "sourceStatus": "Observed",
+        "explanation": "Minnesota satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037650-A05",
+        "displayText": "New York",
+        "displayOrder": 6,
+        "sourceStatus": "Observed",
+        "explanation": "New York satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037650-A08",
+        "displayText": "Wisconsin",
+        "displayOrder": 7,
+        "sourceStatus": "Observed",
+        "explanation": "Wisconsin satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037650-A03",
+        "displayText": "Michigan",
+        "displayOrder": 8,
+        "sourceStatus": "Observed",
+        "explanation": "Michigan satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037650-A02",
+        "displayText": "Indiana",
+        "displayOrder": 9,
+        "sourceStatus": "Observed",
+        "explanation": "Indiana satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037650-A10",
+        "displayText": "Kentucky",
+        "displayOrder": 10,
+        "sourceStatus": "Observed",
+        "explanation": "Kentucky does not satisfy the stated category criterion for this question, according to the cited reference."
+      },
+      {
+        "id": "DD-037650-A12",
+        "displayText": "Vermont",
+        "displayOrder": 11,
+        "sourceStatus": "Observed",
+        "explanation": "Vermont does not satisfy the stated category criterion for this question, according to the cited reference."
+      },
+      {
+        "id": "DD-037650-A07",
+        "displayText": "Pennsylvania",
+        "displayOrder": 12,
+        "sourceStatus": "Observed",
+        "explanation": "Pennsylvania satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      }
+    ],
+    "resultOrder": [
+      {
+        "id": "DD-037650-A01",
+        "displayText": "Illinois",
+        "displayOrder": 3,
+        "sourceStatus": "Observed",
+        "explanation": "Illinois satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037650-A02",
+        "displayText": "Indiana",
+        "displayOrder": 9,
+        "sourceStatus": "Observed",
+        "explanation": "Indiana satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037650-A03",
+        "displayText": "Michigan",
+        "displayOrder": 8,
+        "sourceStatus": "Observed",
+        "explanation": "Michigan satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037650-A04",
+        "displayText": "Minnesota",
+        "displayOrder": 5,
+        "sourceStatus": "Observed",
+        "explanation": "Minnesota satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037650-A05",
+        "displayText": "New York",
+        "displayOrder": 6,
+        "sourceStatus": "Observed",
+        "explanation": "New York satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037650-A06",
+        "displayText": "Ohio",
+        "displayOrder": 4,
+        "sourceStatus": "Observed",
+        "explanation": "Ohio satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037650-A07",
+        "displayText": "Pennsylvania",
+        "displayOrder": 12,
+        "sourceStatus": "Observed",
+        "explanation": "Pennsylvania satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037650-A08",
+        "displayText": "Wisconsin",
+        "displayOrder": 7,
+        "sourceStatus": "Observed",
+        "explanation": "Wisconsin satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      }
+    ],
+    "submissions": [],
+    "questionPoint": null,
+    "configuredTimerSeconds": 5.0,
+    "answerDescription": "Eight options meet the stated category criterion. The result list reveals the eight correct choices in the specified order."
+  },
+  {
+    "id": "DD-037651",
+    "roundOrder": 154,
+    "categoryId": "category-154",
+    "categoryTitle": "Nobel Peace Prize laureates from 2010 through 2017",
+    "prompt": "Select the eight people or organizations awarded the Nobel Peace Prize from 2010 through 2017 inclusive. Reveal alphabetically by laureate or organization.",
+    "answerOptions": [
+      {
+        "id": "DD-037651-A08",
+        "displayText": "International Campaign to Abolish Nuclear Weapons",
+        "displayOrder": 1,
+        "sourceStatus": "Observed",
+        "explanation": "International Campaign to Abolish Nuclear Weapons satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037651-A09",
+        "displayText": "Barack Obama",
+        "displayOrder": 2,
+        "sourceStatus": "Observed",
+        "explanation": "Barack Obama does not satisfy the stated category criterion for this question, according to the cited reference."
+      },
+      {
+        "id": "DD-037651-A07",
+        "displayText": "Juan Manuel Santos",
+        "displayOrder": 3,
+        "sourceStatus": "Observed",
+        "explanation": "Juan Manuel Santos satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037651-A11",
+        "displayText": "Muhammad Yunus",
+        "displayOrder": 4,
+        "sourceStatus": "Observed",
+        "explanation": "Muhammad Yunus does not satisfy the stated category criterion for this question, according to the cited reference."
+      },
+      {
+        "id": "DD-037651-A04",
+        "displayText": "Organisation for the Prohibition of Chemical Weapons",
+        "displayOrder": 5,
+        "sourceStatus": "Observed",
+        "explanation": "Organisation for the Prohibition of Chemical Weapons satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037651-A02",
+        "displayText": "Ellen Johnson Sirleaf, Leymah Gbowee and Tawakkol Karman",
+        "displayOrder": 6,
+        "sourceStatus": "Observed",
+        "explanation": "Ellen Johnson Sirleaf, Leymah Gbowee and Tawakkol Karman satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037651-A03",
+        "displayText": "European Union",
+        "displayOrder": 7,
+        "sourceStatus": "Observed",
+        "explanation": "European Union satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037651-A01",
+        "displayText": "Liu Xiaobo",
+        "displayOrder": 8,
+        "sourceStatus": "Observed",
+        "explanation": "Liu Xiaobo satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037651-A12",
+        "displayText": "Nelson Mandela",
+        "displayOrder": 9,
+        "sourceStatus": "Observed",
+        "explanation": "Nelson Mandela does not satisfy the stated category criterion for this question, according to the cited reference."
+      },
+      {
+        "id": "DD-037651-A10",
+        "displayText": "Al Gore",
+        "displayOrder": 10,
+        "sourceStatus": "Observed",
+        "explanation": "Al Gore does not satisfy the stated category criterion for this question, according to the cited reference."
+      },
+      {
+        "id": "DD-037651-A05",
+        "displayText": "Kailash Satyarthi and Malala Yousafzai",
+        "displayOrder": 11,
+        "sourceStatus": "Observed",
+        "explanation": "Kailash Satyarthi and Malala Yousafzai satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037651-A06",
+        "displayText": "Tunisian National Dialogue Quartet",
+        "displayOrder": 12,
+        "sourceStatus": "Observed",
+        "explanation": "Tunisian National Dialogue Quartet satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      }
+    ],
+    "resultOrder": [
+      {
+        "id": "DD-037651-A02",
+        "displayText": "Ellen Johnson Sirleaf, Leymah Gbowee and Tawakkol Karman",
+        "displayOrder": 6,
+        "sourceStatus": "Observed",
+        "explanation": "Ellen Johnson Sirleaf, Leymah Gbowee and Tawakkol Karman satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037651-A03",
+        "displayText": "European Union",
+        "displayOrder": 7,
+        "sourceStatus": "Observed",
+        "explanation": "European Union satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037651-A08",
+        "displayText": "International Campaign to Abolish Nuclear Weapons",
+        "displayOrder": 1,
+        "sourceStatus": "Observed",
+        "explanation": "International Campaign to Abolish Nuclear Weapons satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037651-A07",
+        "displayText": "Juan Manuel Santos",
+        "displayOrder": 3,
+        "sourceStatus": "Observed",
+        "explanation": "Juan Manuel Santos satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037651-A05",
+        "displayText": "Kailash Satyarthi and Malala Yousafzai",
+        "displayOrder": 11,
+        "sourceStatus": "Observed",
+        "explanation": "Kailash Satyarthi and Malala Yousafzai satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037651-A01",
+        "displayText": "Liu Xiaobo",
+        "displayOrder": 8,
+        "sourceStatus": "Observed",
+        "explanation": "Liu Xiaobo satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037651-A04",
+        "displayText": "Organisation for the Prohibition of Chemical Weapons",
+        "displayOrder": 5,
+        "sourceStatus": "Observed",
+        "explanation": "Organisation for the Prohibition of Chemical Weapons satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037651-A06",
+        "displayText": "Tunisian National Dialogue Quartet",
+        "displayOrder": 12,
+        "sourceStatus": "Observed",
+        "explanation": "Tunisian National Dialogue Quartet satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      }
+    ],
+    "submissions": [],
+    "questionPoint": null,
+    "configuredTimerSeconds": 5.0,
+    "answerDescription": "Eight options meet the stated category criterion. The result list reveals the eight correct choices in the specified order."
+  },
+  {
+    "id": "DD-037652",
+    "roundOrder": 155,
+    "categoryId": "category-155",
+    "categoryTitle": "Summer Olympic host cities from 2000 through 2028",
+    "prompt": "Select the eight cities hosting the Summer Olympic Games editions from 2000 through 2028 inclusive. Reveal alphabetically.",
+    "answerOptions": [
+      {
+        "id": "DD-037652-A08",
+        "displayText": "Los Angeles",
+        "displayOrder": 1,
+        "sourceStatus": "Observed",
+        "explanation": "Los Angeles satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037652-A09",
+        "displayText": "Atlanta",
+        "displayOrder": 2,
+        "sourceStatus": "Observed",
+        "explanation": "Atlanta does not satisfy the stated category criterion for this question, according to the cited reference."
+      },
+      {
+        "id": "DD-037652-A10",
+        "displayText": "Barcelona",
+        "displayOrder": 3,
+        "sourceStatus": "Observed",
+        "explanation": "Barcelona does not satisfy the stated category criterion for this question, according to the cited reference."
+      },
+      {
+        "id": "DD-037652-A11",
+        "displayText": "Seoul",
+        "displayOrder": 4,
+        "sourceStatus": "Observed",
+        "explanation": "Seoul does not satisfy the stated category criterion for this question, according to the cited reference."
+      },
+      {
+        "id": "DD-037652-A05",
+        "displayText": "Rio de Janeiro",
+        "displayOrder": 5,
+        "sourceStatus": "Observed",
+        "explanation": "Rio de Janeiro satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037652-A07",
+        "displayText": "Paris",
+        "displayOrder": 6,
+        "sourceStatus": "Observed",
+        "explanation": "Paris satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037652-A06",
+        "displayText": "Tokyo",
+        "displayOrder": 7,
+        "sourceStatus": "Observed",
+        "explanation": "Tokyo satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037652-A03",
+        "displayText": "Beijing",
+        "displayOrder": 8,
+        "sourceStatus": "Observed",
+        "explanation": "Beijing satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037652-A02",
+        "displayText": "Athens",
+        "displayOrder": 9,
+        "sourceStatus": "Observed",
+        "explanation": "Athens satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037652-A01",
+        "displayText": "Sydney",
+        "displayOrder": 10,
+        "sourceStatus": "Observed",
+        "explanation": "Sydney satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037652-A12",
+        "displayText": "Madrid",
+        "displayOrder": 11,
+        "sourceStatus": "Observed",
+        "explanation": "Madrid does not satisfy the stated category criterion for this question, according to the cited reference."
+      },
+      {
+        "id": "DD-037652-A04",
+        "displayText": "London",
+        "displayOrder": 12,
+        "sourceStatus": "Observed",
+        "explanation": "London satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      }
+    ],
+    "resultOrder": [
+      {
+        "id": "DD-037652-A02",
+        "displayText": "Athens",
+        "displayOrder": 9,
+        "sourceStatus": "Observed",
+        "explanation": "Athens satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037652-A03",
+        "displayText": "Beijing",
+        "displayOrder": 8,
+        "sourceStatus": "Observed",
+        "explanation": "Beijing satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037652-A04",
+        "displayText": "London",
+        "displayOrder": 12,
+        "sourceStatus": "Observed",
+        "explanation": "London satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037652-A08",
+        "displayText": "Los Angeles",
+        "displayOrder": 1,
+        "sourceStatus": "Observed",
+        "explanation": "Los Angeles satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037652-A07",
+        "displayText": "Paris",
+        "displayOrder": 6,
+        "sourceStatus": "Observed",
+        "explanation": "Paris satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037652-A05",
+        "displayText": "Rio de Janeiro",
+        "displayOrder": 5,
+        "sourceStatus": "Observed",
+        "explanation": "Rio de Janeiro satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037652-A01",
+        "displayText": "Sydney",
+        "displayOrder": 10,
+        "sourceStatus": "Observed",
+        "explanation": "Sydney satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037652-A06",
+        "displayText": "Tokyo",
+        "displayOrder": 7,
+        "sourceStatus": "Observed",
+        "explanation": "Tokyo satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      }
+    ],
+    "submissions": [],
+    "questionPoint": null,
+    "configuredTimerSeconds": 5.0,
+    "answerDescription": "Eight options meet the stated category criterion. The result list reveals the eight correct choices in the specified order."
+  },
+  {
+    "id": "DD-037653",
+    "roundOrder": 156,
+    "categoryId": "category-156",
+    "categoryTitle": "EU member states using the euro",
+    "prompt": "Select eight European Union member states that use the euro as their official currency. Reveal alphabetically.",
+    "answerOptions": [
+      {
+        "id": "DD-037653-A08",
+        "displayText": "Germany",
+        "displayOrder": 1,
+        "sourceStatus": "Observed",
+        "explanation": "Germany satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037653-A11",
+        "displayText": "Hungary",
+        "displayOrder": 2,
+        "sourceStatus": "Observed",
+        "explanation": "Hungary does not satisfy the stated category criterion for this question, according to the cited reference."
+      },
+      {
+        "id": "DD-037653-A05",
+        "displayText": "Estonia",
+        "displayOrder": 3,
+        "sourceStatus": "Observed",
+        "explanation": "Estonia satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037653-A07",
+        "displayText": "France",
+        "displayOrder": 4,
+        "sourceStatus": "Observed",
+        "explanation": "France satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037653-A12",
+        "displayText": "Poland",
+        "displayOrder": 5,
+        "sourceStatus": "Observed",
+        "explanation": "Poland does not satisfy the stated category criterion for this question, according to the cited reference."
+      },
+      {
+        "id": "DD-037653-A01",
+        "displayText": "Austria",
+        "displayOrder": 6,
+        "sourceStatus": "Observed",
+        "explanation": "Austria satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037653-A02",
+        "displayText": "Belgium",
+        "displayOrder": 7,
+        "sourceStatus": "Observed",
+        "explanation": "Belgium satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037653-A04",
+        "displayText": "Cyprus",
+        "displayOrder": 8,
+        "sourceStatus": "Observed",
+        "explanation": "Cyprus satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037653-A09",
+        "displayText": "Czechia",
+        "displayOrder": 9,
+        "sourceStatus": "Observed",
+        "explanation": "Czechia does not satisfy the stated category criterion for this question, according to the cited reference."
+      },
+      {
+        "id": "DD-037653-A06",
+        "displayText": "Finland",
+        "displayOrder": 10,
+        "sourceStatus": "Observed",
+        "explanation": "Finland satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037653-A03",
+        "displayText": "Croatia",
+        "displayOrder": 11,
+        "sourceStatus": "Observed",
+        "explanation": "Croatia satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037653-A10",
+        "displayText": "Denmark",
+        "displayOrder": 12,
+        "sourceStatus": "Observed",
+        "explanation": "Denmark does not satisfy the stated category criterion for this question, according to the cited reference."
+      }
+    ],
+    "resultOrder": [
+      {
+        "id": "DD-037653-A01",
+        "displayText": "Austria",
+        "displayOrder": 6,
+        "sourceStatus": "Observed",
+        "explanation": "Austria satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037653-A02",
+        "displayText": "Belgium",
+        "displayOrder": 7,
+        "sourceStatus": "Observed",
+        "explanation": "Belgium satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037653-A03",
+        "displayText": "Croatia",
+        "displayOrder": 11,
+        "sourceStatus": "Observed",
+        "explanation": "Croatia satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037653-A04",
+        "displayText": "Cyprus",
+        "displayOrder": 8,
+        "sourceStatus": "Observed",
+        "explanation": "Cyprus satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037653-A05",
+        "displayText": "Estonia",
+        "displayOrder": 3,
+        "sourceStatus": "Observed",
+        "explanation": "Estonia satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037653-A06",
+        "displayText": "Finland",
+        "displayOrder": 10,
+        "sourceStatus": "Observed",
+        "explanation": "Finland satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037653-A07",
+        "displayText": "France",
+        "displayOrder": 4,
+        "sourceStatus": "Observed",
+        "explanation": "France satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037653-A08",
+        "displayText": "Germany",
+        "displayOrder": 1,
+        "sourceStatus": "Observed",
+        "explanation": "Germany satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      }
+    ],
+    "submissions": [],
+    "questionPoint": null,
+    "configuredTimerSeconds": 5.0,
+    "answerDescription": "Eight options meet the stated category criterion. The result list reveals the eight correct choices in the specified order."
+  },
+  {
+    "id": "DD-037654",
+    "roundOrder": 157,
+    "categoryId": "category-157",
+    "categoryTitle": "Chemical elements named after scientists",
+    "prompt": "Select eight chemical elements whose names honor scientists. Reveal alphabetically.",
+    "answerOptions": [
+      {
+        "id": "DD-037654-A04",
+        "displayText": "Fermium",
+        "displayOrder": 1,
+        "sourceStatus": "Observed",
+        "explanation": "Fermium satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037654-A08",
+        "displayText": "Seaborgium",
+        "displayOrder": 2,
+        "sourceStatus": "Observed",
+        "explanation": "Seaborgium satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037654-A11",
+        "displayText": "Bromine",
+        "displayOrder": 3,
+        "sourceStatus": "Observed",
+        "explanation": "Bromine does not satisfy the stated category criterion for this question, according to the cited reference."
+      },
+      {
+        "id": "DD-037654-A06",
+        "displayText": "Nobelium",
+        "displayOrder": 4,
+        "sourceStatus": "Observed",
+        "explanation": "Nobelium satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037654-A05",
+        "displayText": "Mendelevium",
+        "displayOrder": 5,
+        "sourceStatus": "Observed",
+        "explanation": "Mendelevium satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037654-A01",
+        "displayText": "Bohrium",
+        "displayOrder": 6,
+        "sourceStatus": "Observed",
+        "explanation": "Bohrium satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037654-A12",
+        "displayText": "Neon",
+        "displayOrder": 7,
+        "sourceStatus": "Observed",
+        "explanation": "Neon does not satisfy the stated category criterion for this question, according to the cited reference."
+      },
+      {
+        "id": "DD-037654-A09",
+        "displayText": "Aluminium",
+        "displayOrder": 8,
+        "sourceStatus": "Observed",
+        "explanation": "Aluminium does not satisfy the stated category criterion for this question, according to the cited reference."
+      },
+      {
+        "id": "DD-037654-A10",
+        "displayText": "Argon",
+        "displayOrder": 9,
+        "sourceStatus": "Observed",
+        "explanation": "Argon does not satisfy the stated category criterion for this question, according to the cited reference."
+      },
+      {
+        "id": "DD-037654-A02",
+        "displayText": "Curium",
+        "displayOrder": 10,
+        "sourceStatus": "Observed",
+        "explanation": "Curium satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037654-A07",
+        "displayText": "Rutherfordium",
+        "displayOrder": 11,
+        "sourceStatus": "Observed",
+        "explanation": "Rutherfordium satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037654-A03",
+        "displayText": "Einsteinium",
+        "displayOrder": 12,
+        "sourceStatus": "Observed",
+        "explanation": "Einsteinium satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      }
+    ],
+    "resultOrder": [
+      {
+        "id": "DD-037654-A01",
+        "displayText": "Bohrium",
+        "displayOrder": 6,
+        "sourceStatus": "Observed",
+        "explanation": "Bohrium satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037654-A02",
+        "displayText": "Curium",
+        "displayOrder": 10,
+        "sourceStatus": "Observed",
+        "explanation": "Curium satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037654-A03",
+        "displayText": "Einsteinium",
+        "displayOrder": 12,
+        "sourceStatus": "Observed",
+        "explanation": "Einsteinium satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037654-A04",
+        "displayText": "Fermium",
+        "displayOrder": 1,
+        "sourceStatus": "Observed",
+        "explanation": "Fermium satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037654-A05",
+        "displayText": "Mendelevium",
+        "displayOrder": 5,
+        "sourceStatus": "Observed",
+        "explanation": "Mendelevium satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037654-A06",
+        "displayText": "Nobelium",
+        "displayOrder": 4,
+        "sourceStatus": "Observed",
+        "explanation": "Nobelium satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037654-A07",
+        "displayText": "Rutherfordium",
+        "displayOrder": 11,
+        "sourceStatus": "Observed",
+        "explanation": "Rutherfordium satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037654-A08",
+        "displayText": "Seaborgium",
+        "displayOrder": 2,
+        "sourceStatus": "Observed",
+        "explanation": "Seaborgium satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      }
+    ],
+    "submissions": [],
+    "questionPoint": null,
+    "configuredTimerSeconds": 5.0,
+    "answerDescription": "Eight options meet the stated category criterion. The result list reveals the eight correct choices in the specified order."
+  },
+  {
+    "id": "DD-037655",
+    "roundOrder": 158,
+    "categoryId": "category-158",
+    "categoryTitle": "Nations that have won the UEFA European Championship",
+    "prompt": "Select the eight listed national teams that have won the UEFA European Championship through 2024. Reveal alphabetically.",
+    "answerOptions": [
+      {
+        "id": "DD-037655-A08",
+        "displayText": "Spain",
+        "displayOrder": 1,
+        "sourceStatus": "Observed",
+        "explanation": "Spain satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037655-A09",
+        "displayText": "Belgium",
+        "displayOrder": 2,
+        "sourceStatus": "Observed",
+        "explanation": "Belgium does not satisfy the stated category criterion for this question, according to the cited reference."
+      },
+      {
+        "id": "DD-037655-A05",
+        "displayText": "Italy",
+        "displayOrder": 3,
+        "sourceStatus": "Observed",
+        "explanation": "Italy satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037655-A04",
+        "displayText": "Greece",
+        "displayOrder": 4,
+        "sourceStatus": "Observed",
+        "explanation": "Greece satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037655-A07",
+        "displayText": "Portugal",
+        "displayOrder": 5,
+        "sourceStatus": "Observed",
+        "explanation": "Portugal satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037655-A11",
+        "displayText": "England",
+        "displayOrder": 6,
+        "sourceStatus": "Observed",
+        "explanation": "England does not satisfy the stated category criterion for this question, according to the cited reference."
+      },
+      {
+        "id": "DD-037655-A02",
+        "displayText": "France",
+        "displayOrder": 7,
+        "sourceStatus": "Observed",
+        "explanation": "France satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037655-A10",
+        "displayText": "Croatia",
+        "displayOrder": 8,
+        "sourceStatus": "Observed",
+        "explanation": "Croatia does not satisfy the stated category criterion for this question, according to the cited reference."
+      },
+      {
+        "id": "DD-037655-A12",
+        "displayText": "Sweden",
+        "displayOrder": 9,
+        "sourceStatus": "Observed",
+        "explanation": "Sweden does not satisfy the stated category criterion for this question, according to the cited reference."
+      },
+      {
+        "id": "DD-037655-A01",
+        "displayText": "Denmark",
+        "displayOrder": 10,
+        "sourceStatus": "Observed",
+        "explanation": "Denmark satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037655-A06",
+        "displayText": "Netherlands",
+        "displayOrder": 11,
+        "sourceStatus": "Observed",
+        "explanation": "Netherlands satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037655-A03",
+        "displayText": "Germany",
+        "displayOrder": 12,
+        "sourceStatus": "Observed",
+        "explanation": "Germany satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      }
+    ],
+    "resultOrder": [
+      {
+        "id": "DD-037655-A01",
+        "displayText": "Denmark",
+        "displayOrder": 10,
+        "sourceStatus": "Observed",
+        "explanation": "Denmark satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037655-A02",
+        "displayText": "France",
+        "displayOrder": 7,
+        "sourceStatus": "Observed",
+        "explanation": "France satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037655-A03",
+        "displayText": "Germany",
+        "displayOrder": 12,
+        "sourceStatus": "Observed",
+        "explanation": "Germany satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037655-A04",
+        "displayText": "Greece",
+        "displayOrder": 4,
+        "sourceStatus": "Observed",
+        "explanation": "Greece satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037655-A05",
+        "displayText": "Italy",
+        "displayOrder": 3,
+        "sourceStatus": "Observed",
+        "explanation": "Italy satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037655-A06",
+        "displayText": "Netherlands",
+        "displayOrder": 11,
+        "sourceStatus": "Observed",
+        "explanation": "Netherlands satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037655-A07",
+        "displayText": "Portugal",
+        "displayOrder": 5,
+        "sourceStatus": "Observed",
+        "explanation": "Portugal satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037655-A08",
+        "displayText": "Spain",
+        "displayOrder": 1,
+        "sourceStatus": "Observed",
+        "explanation": "Spain satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      }
+    ],
+    "submissions": [],
+    "questionPoint": null,
+    "configuredTimerSeconds": 5.0,
+    "answerDescription": "Eight options meet the stated category criterion. The result list reveals the eight correct choices in the specified order."
+  },
+  {
+    "id": "DD-037656",
+    "roundOrder": 159,
+    "categoryId": "category-159",
+    "categoryTitle": "Classical composers born in the 18th century",
+    "prompt": "Select eight classical composers born between 1700 and 1799 inclusive. Reveal alphabetically by surname.",
+    "answerOptions": [
+      {
+        "id": "DD-037656-A01",
+        "displayText": "Ludwig van Beethoven",
+        "displayOrder": 1,
+        "sourceStatus": "Observed",
+        "explanation": "Ludwig van Beethoven satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037656-A04",
+        "displayText": "Antonio Salieri",
+        "displayOrder": 2,
+        "sourceStatus": "Observed",
+        "explanation": "Antonio Salieri was born in 1750, within the 18th century."
+      },
+      {
+        "id": "DD-037656-A11",
+        "displayText": "Claude Debussy",
+        "displayOrder": 3,
+        "sourceStatus": "Observed",
+        "explanation": "Claude Debussy does not satisfy the stated category criterion for this question, according to the cited reference."
+      },
+      {
+        "id": "DD-037656-A08",
+        "displayText": "Carl Maria von Weber",
+        "displayOrder": 4,
+        "sourceStatus": "Observed",
+        "explanation": "Carl Maria von Weber satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037656-A09",
+        "displayText": "Johann Sebastian Bach",
+        "displayOrder": 5,
+        "sourceStatus": "Observed",
+        "explanation": "Johann Sebastian Bach does not satisfy the stated category criterion for this question, according to the cited reference."
+      },
+      {
+        "id": "DD-037656-A07",
+        "displayText": "Franz Schubert",
+        "displayOrder": 6,
+        "sourceStatus": "Observed",
+        "explanation": "Franz Schubert satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037656-A12",
+        "displayText": "Pyotr Ilyich Tchaikovsky",
+        "displayOrder": 7,
+        "sourceStatus": "Observed",
+        "explanation": "Pyotr Ilyich Tchaikovsky does not satisfy the stated category criterion for this question, according to the cited reference."
+      },
+      {
+        "id": "DD-037656-A10",
+        "displayText": "Johannes Brahms",
+        "displayOrder": 8,
+        "sourceStatus": "Observed",
+        "explanation": "Johannes Brahms does not satisfy the stated category criterion for this question, according to the cited reference."
+      },
+      {
+        "id": "DD-037656-A05",
+        "displayText": "Wolfgang Amadeus Mozart",
+        "displayOrder": 9,
+        "sourceStatus": "Observed",
+        "explanation": "Wolfgang Amadeus Mozart satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037656-A03",
+        "displayText": "Joseph Haydn",
+        "displayOrder": 10,
+        "sourceStatus": "Observed",
+        "explanation": "Joseph Haydn satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037656-A06",
+        "displayText": "Niccolò Paganini",
+        "displayOrder": 11,
+        "sourceStatus": "Observed",
+        "explanation": "Niccolò Paganini satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037656-A02",
+        "displayText": "Christoph Willibald Gluck",
+        "displayOrder": 12,
+        "sourceStatus": "Observed",
+        "explanation": "Christoph Willibald Gluck was born in 1714, within the 18th century."
+      }
+    ],
+    "resultOrder": [
+      {
+        "id": "DD-037656-A01",
+        "displayText": "Ludwig van Beethoven",
+        "displayOrder": 1,
+        "sourceStatus": "Observed",
+        "explanation": "Ludwig van Beethoven satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037656-A02",
+        "displayText": "Christoph Willibald Gluck",
+        "displayOrder": 12,
+        "sourceStatus": "Observed",
+        "explanation": "Christoph Willibald Gluck was born in 1714, within the 18th century."
+      },
+      {
+        "id": "DD-037656-A03",
+        "displayText": "Joseph Haydn",
+        "displayOrder": 10,
+        "sourceStatus": "Observed",
+        "explanation": "Joseph Haydn satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037656-A05",
+        "displayText": "Wolfgang Amadeus Mozart",
+        "displayOrder": 9,
+        "sourceStatus": "Observed",
+        "explanation": "Wolfgang Amadeus Mozart satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037656-A06",
+        "displayText": "Niccolò Paganini",
+        "displayOrder": 11,
+        "sourceStatus": "Observed",
+        "explanation": "Niccolò Paganini satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037656-A04",
+        "displayText": "Antonio Salieri",
+        "displayOrder": 2,
+        "sourceStatus": "Observed",
+        "explanation": "Antonio Salieri was born in 1750, within the 18th century."
+      },
+      {
+        "id": "DD-037656-A07",
+        "displayText": "Franz Schubert",
+        "displayOrder": 6,
+        "sourceStatus": "Observed",
+        "explanation": "Franz Schubert satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037656-A08",
+        "displayText": "Carl Maria von Weber",
+        "displayOrder": 4,
+        "sourceStatus": "Observed",
+        "explanation": "Carl Maria von Weber satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      }
+    ],
+    "submissions": [],
+    "questionPoint": null,
+    "configuredTimerSeconds": 5.0,
+    "answerDescription": "Eight options meet the stated category criterion. The result list reveals the eight correct choices in the specified order."
+  },
+  {
+    "id": "DD-037657",
+    "roundOrder": 160,
+    "categoryId": "category-160",
+    "categoryTitle": "G20 summit host countries from 2017 through 2024",
+    "prompt": "Select the eight countries that hosted G20 summits from 2017 through 2024 inclusive. Reveal alphabetically by country.",
+    "answerOptions": [
+      {
+        "id": "DD-037657-A07",
+        "displayText": "India",
+        "displayOrder": 1,
+        "sourceStatus": "Observed",
+        "explanation": "India satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037657-A08",
+        "displayText": "Brazil",
+        "displayOrder": 2,
+        "sourceStatus": "Observed",
+        "explanation": "Brazil satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037657-A09",
+        "displayText": "France",
+        "displayOrder": 3,
+        "sourceStatus": "Observed",
+        "explanation": "France does not satisfy the stated category criterion for this question, according to the cited reference."
+      },
+      {
+        "id": "DD-037657-A06",
+        "displayText": "Indonesia",
+        "displayOrder": 4,
+        "sourceStatus": "Observed",
+        "explanation": "Indonesia satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037657-A03",
+        "displayText": "Japan",
+        "displayOrder": 5,
+        "sourceStatus": "Observed",
+        "explanation": "Japan satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037657-A04",
+        "displayText": "Saudi Arabia",
+        "displayOrder": 6,
+        "sourceStatus": "Observed",
+        "explanation": "Saudi Arabia satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037657-A02",
+        "displayText": "Argentina",
+        "displayOrder": 7,
+        "sourceStatus": "Observed",
+        "explanation": "Argentina satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037657-A01",
+        "displayText": "Germany",
+        "displayOrder": 8,
+        "sourceStatus": "Observed",
+        "explanation": "Germany satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037657-A11",
+        "displayText": "Mexico",
+        "displayOrder": 9,
+        "sourceStatus": "Observed",
+        "explanation": "Mexico does not satisfy the stated category criterion for this question, according to the cited reference."
+      },
+      {
+        "id": "DD-037657-A10",
+        "displayText": "Canada",
+        "displayOrder": 10,
+        "sourceStatus": "Observed",
+        "explanation": "Canada does not satisfy the stated category criterion for this question, according to the cited reference."
+      },
+      {
+        "id": "DD-037657-A12",
+        "displayText": "Australia",
+        "displayOrder": 11,
+        "sourceStatus": "Observed",
+        "explanation": "Australia does not satisfy the stated category criterion for this question, according to the cited reference."
+      },
+      {
+        "id": "DD-037657-A05",
+        "displayText": "Italy",
+        "displayOrder": 12,
+        "sourceStatus": "Observed",
+        "explanation": "Italy satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      }
+    ],
+    "resultOrder": [
+      {
+        "id": "DD-037657-A02",
+        "displayText": "Argentina",
+        "displayOrder": 7,
+        "sourceStatus": "Observed",
+        "explanation": "Argentina satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037657-A08",
+        "displayText": "Brazil",
+        "displayOrder": 2,
+        "sourceStatus": "Observed",
+        "explanation": "Brazil satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037657-A01",
+        "displayText": "Germany",
+        "displayOrder": 8,
+        "sourceStatus": "Observed",
+        "explanation": "Germany satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037657-A07",
+        "displayText": "India",
+        "displayOrder": 1,
+        "sourceStatus": "Observed",
+        "explanation": "India satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037657-A06",
+        "displayText": "Indonesia",
+        "displayOrder": 4,
+        "sourceStatus": "Observed",
+        "explanation": "Indonesia satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037657-A05",
+        "displayText": "Italy",
+        "displayOrder": 12,
+        "sourceStatus": "Observed",
+        "explanation": "Italy satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037657-A03",
+        "displayText": "Japan",
+        "displayOrder": 5,
+        "sourceStatus": "Observed",
+        "explanation": "Japan satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037657-A04",
+        "displayText": "Saudi Arabia",
+        "displayOrder": 6,
+        "sourceStatus": "Observed",
+        "explanation": "Saudi Arabia satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      }
+    ],
+    "submissions": [],
+    "questionPoint": null,
+    "configuredTimerSeconds": 5.0,
+    "answerDescription": "Eight options meet the stated category criterion. The result list reveals the eight correct choices in the specified order."
+  },
+  {
+    "id": "DD-037658",
+    "roundOrder": 161,
+    "categoryId": "category-161",
+    "categoryTitle": "Nobel Physics Prize laureates from 2010 through 2017",
+    "prompt": "Select the eight laureates or laureate groups awarded the Nobel Prize in Physics from 2010 through 2017 inclusive. Reveal alphabetically by laureate surname.",
+    "answerOptions": [
+      {
+        "id": "DD-037658-A07",
+        "displayText": "David J. Thouless, F. Duncan M. Haldane and J. Michael Kosterlitz",
+        "displayOrder": 1,
+        "sourceStatus": "Observed",
+        "explanation": "David J. Thouless, F. Duncan M. Haldane and J. Michael Kosterlitz satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037658-A12",
+        "displayText": "Enrico Fermi",
+        "displayOrder": 2,
+        "sourceStatus": "Observed",
+        "explanation": "Enrico Fermi does not satisfy the stated category criterion for this question, according to the cited reference."
+      },
+      {
+        "id": "DD-037658-A08",
+        "displayText": "Rainer Weiss, Barry C. Barish and Kip S. Thorne",
+        "displayOrder": 3,
+        "sourceStatus": "Observed",
+        "explanation": "Rainer Weiss, Barry C. Barish and Kip S. Thorne satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037658-A06",
+        "displayText": "Takaaki Kajita and Arthur B. McDonald",
+        "displayOrder": 4,
+        "sourceStatus": "Observed",
+        "explanation": "Takaaki Kajita and Arthur B. McDonald satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037658-A10",
+        "displayText": "Marie Curie",
+        "displayOrder": 5,
+        "sourceStatus": "Observed",
+        "explanation": "Marie Curie does not satisfy the stated category criterion for this question, according to the cited reference."
+      },
+      {
+        "id": "DD-037658-A02",
+        "displayText": "Saul Perlmutter, Brian P. Schmidt and Adam G. Riess",
+        "displayOrder": 6,
+        "sourceStatus": "Observed",
+        "explanation": "Saul Perlmutter, Brian P. Schmidt and Adam G. Riess satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037658-A03",
+        "displayText": "Serge Haroche and David J. Wineland",
+        "displayOrder": 7,
+        "sourceStatus": "Observed",
+        "explanation": "Serge Haroche and David J. Wineland satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037658-A09",
+        "displayText": "Albert Einstein",
+        "displayOrder": 8,
+        "sourceStatus": "Observed",
+        "explanation": "Albert Einstein does not satisfy the stated category criterion for this question, according to the cited reference."
+      },
+      {
+        "id": "DD-037658-A04",
+        "displayText": "François Englert and Peter Higgs",
+        "displayOrder": 9,
+        "sourceStatus": "Observed",
+        "explanation": "François Englert and Peter Higgs satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037658-A11",
+        "displayText": "Niels Bohr",
+        "displayOrder": 10,
+        "sourceStatus": "Observed",
+        "explanation": "Niels Bohr does not satisfy the stated category criterion for this question, according to the cited reference."
+      },
+      {
+        "id": "DD-037658-A01",
+        "displayText": "Andre Geim and Konstantin Novoselov",
+        "displayOrder": 11,
+        "sourceStatus": "Observed",
+        "explanation": "Andre Geim and Konstantin Novoselov satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037658-A05",
+        "displayText": "Isamu Akasaki, Hiroshi Amano and Shuji Nakamura",
+        "displayOrder": 12,
+        "sourceStatus": "Observed",
+        "explanation": "Isamu Akasaki, Hiroshi Amano and Shuji Nakamura satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      }
+    ],
+    "resultOrder": [
+      {
+        "id": "DD-037658-A01",
+        "displayText": "Andre Geim and Konstantin Novoselov",
+        "displayOrder": 11,
+        "sourceStatus": "Observed",
+        "explanation": "Andre Geim and Konstantin Novoselov satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037658-A07",
+        "displayText": "David J. Thouless, F. Duncan M. Haldane and J. Michael Kosterlitz",
+        "displayOrder": 1,
+        "sourceStatus": "Observed",
+        "explanation": "David J. Thouless, F. Duncan M. Haldane and J. Michael Kosterlitz satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037658-A04",
+        "displayText": "François Englert and Peter Higgs",
+        "displayOrder": 9,
+        "sourceStatus": "Observed",
+        "explanation": "François Englert and Peter Higgs satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037658-A05",
+        "displayText": "Isamu Akasaki, Hiroshi Amano and Shuji Nakamura",
+        "displayOrder": 12,
+        "sourceStatus": "Observed",
+        "explanation": "Isamu Akasaki, Hiroshi Amano and Shuji Nakamura satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037658-A08",
+        "displayText": "Rainer Weiss, Barry C. Barish and Kip S. Thorne",
+        "displayOrder": 3,
+        "sourceStatus": "Observed",
+        "explanation": "Rainer Weiss, Barry C. Barish and Kip S. Thorne satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037658-A02",
+        "displayText": "Saul Perlmutter, Brian P. Schmidt and Adam G. Riess",
+        "displayOrder": 6,
+        "sourceStatus": "Observed",
+        "explanation": "Saul Perlmutter, Brian P. Schmidt and Adam G. Riess satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037658-A03",
+        "displayText": "Serge Haroche and David J. Wineland",
+        "displayOrder": 7,
+        "sourceStatus": "Observed",
+        "explanation": "Serge Haroche and David J. Wineland satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037658-A06",
+        "displayText": "Takaaki Kajita and Arthur B. McDonald",
+        "displayOrder": 4,
+        "sourceStatus": "Observed",
+        "explanation": "Takaaki Kajita and Arthur B. McDonald satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      }
+    ],
+    "submissions": [],
+    "questionPoint": null,
+    "configuredTimerSeconds": 5.0,
+    "answerDescription": "Eight options meet the stated category criterion. The result list reveals the eight correct choices in the specified order."
+  },
+  {
+    "id": "DD-037659",
+    "roundOrder": 162,
+    "categoryId": "category-162",
+    "categoryTitle": "US states bordering the Mississippi River",
+    "prompt": "Select the eight listed US states that share a boundary with the Mississippi River. Reveal alphabetically.",
+    "answerOptions": [
+      {
+        "id": "DD-037659-A12",
+        "displayText": "Wyoming",
+        "displayOrder": 1,
+        "sourceStatus": "Observed",
+        "explanation": "Wyoming does not satisfy the stated category criterion for this question, according to the cited reference."
+      },
+      {
+        "id": "DD-037659-A11",
+        "displayText": "Ohio",
+        "displayOrder": 2,
+        "sourceStatus": "Observed",
+        "explanation": "Ohio does not satisfy the stated category criterion for this question, according to the cited reference."
+      },
+      {
+        "id": "DD-037659-A01",
+        "displayText": "Arkansas",
+        "displayOrder": 3,
+        "sourceStatus": "Observed",
+        "explanation": "Arkansas satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037659-A02",
+        "displayText": "Illinois",
+        "displayOrder": 4,
+        "sourceStatus": "Observed",
+        "explanation": "Illinois satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037659-A07",
+        "displayText": "Mississippi",
+        "displayOrder": 5,
+        "sourceStatus": "Observed",
+        "explanation": "Mississippi satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037659-A08",
+        "displayText": "Missouri",
+        "displayOrder": 6,
+        "sourceStatus": "Observed",
+        "explanation": "Missouri satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037659-A09",
+        "displayText": "Colorado",
+        "displayOrder": 7,
+        "sourceStatus": "Observed",
+        "explanation": "Colorado does not satisfy the stated category criterion for this question, according to the cited reference."
+      },
+      {
+        "id": "DD-037659-A06",
+        "displayText": "Minnesota",
+        "displayOrder": 8,
+        "sourceStatus": "Observed",
+        "explanation": "Minnesota satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037659-A10",
+        "displayText": "Georgia",
+        "displayOrder": 9,
+        "sourceStatus": "Observed",
+        "explanation": "Georgia does not satisfy the stated category criterion for this question, according to the cited reference."
+      },
+      {
+        "id": "DD-037659-A03",
+        "displayText": "Iowa",
+        "displayOrder": 10,
+        "sourceStatus": "Observed",
+        "explanation": "Iowa satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037659-A05",
+        "displayText": "Louisiana",
+        "displayOrder": 11,
+        "sourceStatus": "Observed",
+        "explanation": "Louisiana satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037659-A04",
+        "displayText": "Kentucky",
+        "displayOrder": 12,
+        "sourceStatus": "Observed",
+        "explanation": "Kentucky satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      }
+    ],
+    "resultOrder": [
+      {
+        "id": "DD-037659-A01",
+        "displayText": "Arkansas",
+        "displayOrder": 3,
+        "sourceStatus": "Observed",
+        "explanation": "Arkansas satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037659-A02",
+        "displayText": "Illinois",
+        "displayOrder": 4,
+        "sourceStatus": "Observed",
+        "explanation": "Illinois satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037659-A03",
+        "displayText": "Iowa",
+        "displayOrder": 10,
+        "sourceStatus": "Observed",
+        "explanation": "Iowa satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037659-A04",
+        "displayText": "Kentucky",
+        "displayOrder": 12,
+        "sourceStatus": "Observed",
+        "explanation": "Kentucky satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037659-A05",
+        "displayText": "Louisiana",
+        "displayOrder": 11,
+        "sourceStatus": "Observed",
+        "explanation": "Louisiana satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037659-A06",
+        "displayText": "Minnesota",
+        "displayOrder": 8,
+        "sourceStatus": "Observed",
+        "explanation": "Minnesota satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037659-A07",
+        "displayText": "Mississippi",
+        "displayOrder": 5,
+        "sourceStatus": "Observed",
+        "explanation": "Mississippi satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      },
+      {
+        "id": "DD-037659-A08",
+        "displayText": "Missouri",
+        "displayOrder": 6,
+        "sourceStatus": "Observed",
+        "explanation": "Missouri satisfies the stated category criterion; the cited reference identifies it as a qualifying entry."
+      }
+    ],
+    "submissions": [],
+    "questionPoint": null,
+    "configuredTimerSeconds": 5.0,
+    "answerDescription": "Eight options meet the stated category criterion. The result list reveals the eight correct choices in the specified order."
   }
 ]
